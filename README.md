@@ -12,7 +12,7 @@ O projeto consiste em conectar pessoas idosas analfabetas ou semi-analfabetas co
 
 ## Integrantes
 
-* Dayane 
+* Dayany Alves
 * Fabricio Fagner 
 * Luan 
 * Pedro Camilo 

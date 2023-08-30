@@ -1,14 +1,12 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+"Old Connection" é uma resposta crucial às lacunas presentes na sociedade atual, onde os avanços tecnológicos muitas vezes deixam para trás aqueles que têm dificuldades com a alfabetização ou que enfrentam desafios no uso de dispositivos eletrônicos. Esse projeto visa abordar a exclusão digital que afeta muitos idosos, permitindo-lhes acessar informações de formal de fácil acesso e direcionada a eles.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+O aplicativo será desenvolvido com uma interface intuitiva e amigável, projetada especificamente para atender às necessidades dos idosos analfabetos ou semi-analfabetos. Através do aplicativo, os usuários idosos poderão entrar em contato com uma rede de profissionais especializados em educação e tecnologia. Esses profissionais estarão disponíveis para fornecer orientação personalizada por meio de mensagens de texto, chamadas de áudio ou até mesmo videochamadas, adaptando-se às preferências e níveis de conforto dos idosos (sendo atendidos até mesmo nas instituições de ensino ou local de trabalho do professor qualificado).
 
+Além de oferecer suporte prático, o aplicativo também terá um foco na criação de conexões emocionais. Os idosos e os profissionais terão a oportunidade de compartilhar experiências de vida, histórias e sabedoria, promovendo uma troca intergeracional enriquecedora. Esse aspecto social é fundamental para combater a solidão e o isolamento muitas vezes enfrentados pela população idosa e facilitando até mesmo a divulgação do projeto.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
-
+"Old Connection" tem o potencial de ampliar as oportunidades de aprendizado, melhorar a saúde mental e emocional dos idosos, capacitar a tomada de decisões informadas e, acima de tudo, restaurar um senso de relevância e conexão em suas vidas. Além disso, ao unir diferentes gerações, o projeto contribuirá para uma sociedade mais inclusiva, onde o conhecimento é compartilhado e valorizado independentemente da idade ou nível de alfabetização.
 ## Problema
 
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

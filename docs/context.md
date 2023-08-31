@@ -9,11 +9,8 @@ Além de oferecer suporte prático, o aplicativo também terá um foco na criaç
 "Old Connection" tem o potencial de ampliar as oportunidades de aprendizado, melhorar a saúde mental e emocional dos idosos, capacitar a tomada de decisões informadas e, acima de tudo, restaurar um senso de relevância e conexão em suas vidas. Além disso, ao unir diferentes gerações, o projeto contribuirá para uma sociedade mais inclusiva, onde o conhecimento é compartilhado e valorizado independentemente da idade ou nível de alfabetização.
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Faremos esse projeto pois sabemos que o acesso ao estudo nos tempos passados eram precários, e com isso os idosos hoje em dia estão em situação de não sabe ler nem escrever.
+Sabemos que aproximadamente 9 milhões de brasileiros com mais de 50 anos são analfabetos, e com nosso projeto iremos de alguma maneira facilitar o acesso a educação a essas pessoas.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)

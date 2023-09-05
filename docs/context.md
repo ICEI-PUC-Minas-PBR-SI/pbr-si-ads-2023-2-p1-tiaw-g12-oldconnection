@@ -1,12 +1,7 @@
 # Introdução
 
-"Old Connection" é uma resposta crucial às lacunas presentes na sociedade atual, onde os avanços tecnológicos muitas vezes deixam para trás aqueles que têm dificuldades com a alfabetização ou que enfrentam desafios no uso de dispositivos eletrônicos. Esse projeto visa abordar a exclusão digital que afeta muitos idosos, permitindo-lhes acessar informações de formal de fácil acesso e direcionada a eles.
+Nosso projeto visa conectar professores de instituições de ensino ou autônomos com idosos semi-analfabetos e analfabetos para facilitar a alfabetização desse público-alvo.
 
-O aplicativo será desenvolvido com uma interface intuitiva e amigável, projetada especificamente para atender às necessidades dos idosos analfabetos ou semi-analfabetos. Através do aplicativo, os usuários idosos poderão entrar em contato com uma rede de profissionais especializados em educação e tecnologia. Esses profissionais estarão disponíveis para fornecer orientação personalizada por meio de mensagens de texto, chamadas de áudio ou até mesmo videochamadas, adaptando-se às preferências e níveis de conforto dos idosos (sendo atendidos até mesmo nas instituições de ensino ou local de trabalho do professor qualificado).
-
-Além de oferecer suporte prático, o aplicativo também terá um foco na criação de conexões emocionais. Os idosos e os profissionais terão a oportunidade de compartilhar experiências de vida, histórias e sabedoria, promovendo uma troca intergeracional enriquecedora. Esse aspecto social é fundamental para combater a solidão e o isolamento muitas vezes enfrentados pela população idosa e facilitando até mesmo a divulgação do projeto.
-
-"Old Connection" tem o potencial de ampliar as oportunidades de aprendizado, melhorar a saúde mental e emocional dos idosos, capacitar a tomada de decisões informadas e, acima de tudo, restaurar um senso de relevância e conexão em suas vidas. Além disso, ao unir diferentes gerações, o projeto contribuirá para uma sociedade mais inclusiva, onde o conhecimento é compartilhado e valorizado independentemente da idade ou nível de alfabetização.
 ## Problema
 
 Faremos esse projeto pois sabemos que o acesso ao estudo nos tempos passados eram precários, e com isso os idosos hoje em dia estão em situação de não sabe ler nem escrever.
@@ -26,9 +21,7 @@ Nossa aplicação irá dar orientação e encaminhar esses usuários a redes de 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Com o avanço cada vez maior da tecnologia e um aumento crescente na quantidade de idosos analfabetos textuais, mas também no mundo digital, é crucial que exista um mecanismo que não exclua os idosos desses avanços tecnológicos. Isso demonstra que, com o avanço da tecnologia, não apenas nos tornamos mais conectados com o mundo digital, mas também podemos eliminar certas carências, como a analfabetização.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

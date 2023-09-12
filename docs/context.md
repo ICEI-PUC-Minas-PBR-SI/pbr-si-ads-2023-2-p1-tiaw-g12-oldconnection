@@ -24,12 +24,17 @@ Nossa aplicação irá dar orientação e encaminhar esses usuários a redes de 
 
 ## Justificativa
 
-O progresso nos estudos depende inteiramente da aquisição de conhecimentos básicos. Isso cria um problema onde o individuo não poderá traçar um caminho escolar e não terá 
-igualdade de condições e oportunidades para alcançar seu desenvolvimento pessoal e contribuir com a sociedade. Nesse contexto, desenvolver soluções que possibilitem novos 
-meios pedagogicos com o auxilio da tecnologia, por exemplo, pode ser um importante aliado para revertermos esse cenário onde o Brasil ainda nos dias de hoje em 2023 possui 
-uma enorme quantidade de analfabetos e semi-analfabetos.
-Existem correntes de pensamento que dizem que o combate ao analfabetismo deve ir além da escola convencional e que empresas e a sociedade, de modo geral, precisam participar
-do processo. Sendo assim, o projeto OldConnection seria uma contribuição do meio académico no combate ao Analfabetismo tanto de adultos como de idosos.
+É curioso que mesmo estando no seculo 20 e com tanto avanço tecnlogico numa época em que estejamos discuntindo o desenvolvimento de Inteligências Artificiais que visam ajudar o ser humano em diversas tarefas e com uma sociedade tão globalizada ainda exista uma parcela siginificativa da população que continua sem saber ler e escrever. Os motivos que contribuem para esse cenário são os mais diversos como evasão escolar; Uma pessoa pode abandonar os estudos por varias razões complexas como a falta de incentivo por parte da familia
+e da sociedade, necessidades financeiras de ter de trabalhar para poder se sustentar, dificuldade de aprendizado não acompanhada por especialistas devido a falta de condições, etc. Outro problema
+é a falta de infraestrutura em muitas cidades para dar suporte aos seus habitantes; em muitos vilarejos sequer existem escolas e as vezes o aluno tem de percorrer uma longa jornada
+até que consiga ter acesso a uma e pode ser que nem haja uma alimentação adequada na escola o que acaba desmotivamendo ainda mais alunos extremamente carentes. Para que 
+esse cenário de extrema pobreza seja revertido o combate ao analfabetismo é importante pois a educação é a principal ferramenta de combate a miséria e o progresso nos estudos depende inteiramente da aquisição de conhecimentos básicos; quando o individuo não tem tais conhecimentos cria um problema onde o individuo não poderá traçar um caminho escolar e não terá igualdade de condições e oportunidades para alcançar seu desenvolvimento pessoal e contribuir com a sociedade, criando assim, um ciclo vicioso de probreza que afetará não só a pessoa mas também seus decendentes. 
+Além da exclusão social causada pelo analfabetismo, a falta de capacitação profissional traz problemas a economia do país onde teremos uma massa de pessoas desempregadas ou com sub-empregos de baixo valor agregado. Isso atrapalha 
+inclusive na captação de rescuros de investimento estrangeiro em indústrias e tecnologia uma vez que o país pode nao tem mao de obra qualificada.
+
+De acordo com o IBGE – Instituto Brasileiro de Geografia e Estatística (IBGE) de 2019, existiam cerca de 11 milhões de brasileiros com 15 anos ou mais não são capazes de ler e escrever. E embora, exista uma tendência de queda na taxa de analfabetismo nos últimos anos, o maior número de analfabetismo está concentrada nas pessoas com idades mais avançadas. Nesse contexto, desenvolver soluções que possibilitem novos meios pedagogicos com o auxilio da tecnologia, por exemplo, pode ser um importante aliado para revertermos esse cenário onde o Brasil principalmente nessa parcela da população da terceira idade.
+
+Existem correntes de pensamento que dizem que o combate ao analfabetismo deve ir além da escola convencional e que empresas e a sociedade, de modo geral, precisam participar do processo. Sendo assim, o projeto OldConnection seria uma contribuição do meio académico no combate ao Analfabetismo tanto de adultos como de idosos.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

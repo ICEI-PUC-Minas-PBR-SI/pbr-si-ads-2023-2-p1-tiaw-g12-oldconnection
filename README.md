@@ -18,7 +18,7 @@ O projeto consiste em conectar pessoas idosas analfabetas ou semi-analfabetas co
 * Pedro Camilo 
 * Pedro Henrique
 * Victor
-* Wellington
+* Wellington de Sousa Reis
 
 ## Orientador
 

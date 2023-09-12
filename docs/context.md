@@ -24,7 +24,12 @@ Nossa aplicação irá dar orientação e encaminhar esses usuários a redes de 
 
 ## Justificativa
 
-Com o avanço cada vez maior da tecnologia e um aumento crescente na quantidade de idosos analfabetos textuais, mas também no mundo digital, é crucial que exista um mecanismo que não exclua os idosos desses avanços tecnológicos. Isso demonstra que, com o avanço da tecnologia, não apenas nos tornamos mais conectados com o mundo digital, mas também podemos eliminar certas carências, como a analfabetização.
+O progresso nos estudos depende inteiramente da aquisição de conhecimentos básicos. Isso cria um problema onde o individuo não poderá traçar um caminho escolar e não terá 
+igualdade de condições e oportunidades para alcançar seu desenvolvimento pessoal e contribuir com a sociedade. Nesse contexto, desenvolver soluções que possibilitem novos 
+meios pedagogicos com o auxilio da tecnologia, por exemplo, pode ser um importante aliado para revertermos esse cenário onde o Brasil ainda nos dias de hoje em 2023 possui 
+uma enorme quantidade de analfabetos e semi-analfabetos.
+Existem correntes de pensamento que dizem que o combate ao analfabetismo deve ir além da escola convencional e que empresas e a sociedade, de modo geral, precisam participar
+do processo. Sendo assim, o projeto OldConnection seria uma contribuição do meio académico no combate ao Analfabetismo tanto de adultos como de idosos.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

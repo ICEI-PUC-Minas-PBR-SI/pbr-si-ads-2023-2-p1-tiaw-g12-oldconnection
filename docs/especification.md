@@ -72,7 +72,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-023| O sistema deve possuir na de "Gerenciamento de curso" meios de alterar dados do curso como Nome, preço, publico alvo, categoria, Data, Hora, local caso seja presencial. Caso seja online, link do canal de stream caso.    | ALTA | |
 |RF-024| O sistema deve permitir que seja adicionada pelo menos uma imagem chamativa de apresentação do curso na tela inicial.    | ALTA | |
 |RF-025| O sistema deve permitir que sejaM adicionadas varias fotos que o "Orientador" considere relevantes para atrair o publico alvo    | MEDIA | |
-|RF-026| O sistema deve permitir que seja links de videos que demonstrem mais detalhes sobre o curso. Esses recursos visuais sao especialmente uteis para os Alunos que tem dificuldade em ler e escrever    | MEDIA | |
+|RF-026| O sistema deve permitir que o "Orientador" faça a indicação de links de videos que demonstrem mais detalhes sobre o curso. Esses recursos visuais sao especialmente uteis para os Alunos que tem dificuldade em ler e escrever    | MEDIA | |
+|RF-027| O sistema deve permitir que o "Orientador" faça o upload de videos para dentro da plataforma que demonstrem mais detalhes sobre o curso. Esses recursos visuais sao especialmente uteis para os Alunos que tem dificuldade em ler e escrever    | BAIXA | |
 
 
 

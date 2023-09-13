@@ -83,6 +83,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| Deve ser utlizado HTML, CSS e Javascript |  ALTA | 
+|RNF-004| A forma de armazenamento de dados será via LocalStorage do Browser |  ALTA | 
+|RNF-005| O sistema dever simples e intuitivo devido ao publico alvo não ter em principio um grande dominio sobre a tecnologia |  ALTA | 
+|RNF-006| As letras do sistema devem ser grandes para facilitar a leitura |  ALTA | 
+|RNF-007| Sempre que possivel, o sistema deve possuir mais recursos visuais que escritos para facilitar o entendimento |  ALTA | 
+|RNF-008| O sistema de login pode ser simplicado com o recurso de "Permanecer conectado"  |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

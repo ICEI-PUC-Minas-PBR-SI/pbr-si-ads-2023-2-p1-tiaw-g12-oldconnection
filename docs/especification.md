@@ -46,8 +46,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| O sistema deve Cadastrar Responsável | ALTA |  |
+|RF-002| O sistema deve Cadastrar Aluno   | ALTA | |
+|RF-003| O sistema deve permitir que um Responsável gerencia 1 ou N Alunos   | ALTA | |
+|RF-004| O sistema deve permitir que um Responsável também seja aluno (quando o Aluno já for capaz de utlizar a interface do sistema sozinho)  | ALTA | |
+|RF-005| O sistema deve permitir que um Responsável crie uma lista de assuntos de interesse para filtro de cursos  | ALTA | |
+|RF-006| O sistema deve ter uma tela de gerenciamento para o responsável onde ele pode adicionar ou remover alunos, bem como, alterar informações do cadastro  | ALTA | |
+|RF-007| O sistema deve permitir que um "Orientador" crie uma lista de tags de aréa de conhecimento referentes aos cursos que ele vai disponiblizar na plataforma  | ALTA | |
+|RF-008| O sistema deve cadastrar um "Orientador" responsável pelo curso  | ALTA | |
+|RF-009| O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo.  | ALTA | |
+|RF-010| O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM  | ALTA | |
+|RF-011| O sistema deve permitir que um "Orientador" responsável pelo curso cadastre informações como data, duração em dias, hora de incio, hora de fim, telefone de contato, quantidade de horas, preço, ementa do curso, local de realização caso seja presencial, link de acesso caso seja virtual  | ALTA | |
+|RF-012| O sistema deve possuir uma tela inicial de facil visualização dos cursos oferecidos de forma simples e intuitiva. A ideia inicial é um scroll infinito de postagens como é no facebook ou instagram | ALTA | |
+|RF-013| O sistema deve possuir uma barra de pesquisa de nomes de cursos ou palavras chave para facilitar encontrar postagens de interesse | MEDIA | |
+|RF-014| O sistema deve possuir um sistema de likes em cada postagem de curso que é um indicativo de aprovação daquele conteudo  | MEDIA | |
+|RF-015| O sistema deve possuir um sistema de rating em cada postagem de curso que é um indicativo de qualidade daquele conteudo  | MEDIA | |
+|RF-015| O sistema deve garantir que uma postagem postagem de curso que só apareça se o ainda estiver ativo e com inscrições abertas. Quando a matricula for encerrada ou o curso nao estiver mais disponivel nao poderá aparecer na tela principal de oferta  | ALTA | |
+|RF-016| O sistema deve possuir uma tela de historico de todos os cursos ja ofertados e que não estão mais disponiveis. O objetivo é permitir que o usuário tenha conhecimento de que tipo de atividades ja foram ofertadas e que podem voltar a ser ofertadas no futuro.  | BAIXA | |
+|RF-017| O sistema deve possuir uma tela de inscrição do aluno em um curso.   | ALTA | |
+|RF-018| O sistema deve possuir um botão na tela inicial onde um Responsavel ou Aluno possa ver os cursos em que se está inscrito de forma rapida, por exemplo "Atalho para meus cursos".   | MEDIA | |
+|RF-019| O sistema deve possuir uma tela de gerenciamento de subscrição de cursos para o RESPONSAVEL pelo Aluno. Nessa tela é possivel Cancelar ou fazer alguma possivel alteração na subscrição   | ALTA | |
+|RF-020| O sistema deve permitir o envio de mensagens de texto para o Orientador do curso afim de pedir alguma informação na tela de "GERENCIAMENTO DE SUBSCRIÇÃO"   | BAIXA | |
+|RF-021| O sistema deve permitir o envio de comentarios dos alunos em cada postagem de cada curso. É importante que os alunos saibam a opiniao uns dos outros.   | MEDIA | |
+|RF-022| O sistema deve possuir uma tela de "Gerenciamento de curso" onde seja possivel ver estatisticas uteis como a quantidade de alunos.    | ALTA | |
+|RF-023| O sistema deve possuir na de "Gerenciamento de curso" meios de alterar dados do curso como Nome, preço, publico alvo, categoria, Data, Hora, local caso seja presencial. Caso seja online, link do canal de stream caso.    | ALTA | |
+|RF-024| O sistema deve permitir que seja adicionada pelo menos uma imagem chamativa de apresentação do curso na tela inicial.    | ALTA | |
+|RF-025| O sistema deve permitir que sejaM adicionadas varias fotos que o "Orientador" considere relevantes para atrair o publico alvo    | MEDIA | |
+|RF-026| O sistema deve permitir que seja links de videos que demonstrem mais detalhes sobre o curso. Esses recursos visuais sao especialmente uteis para os Alunos que tem dificuldade em ler e escrever    | MEDIA | |
+
 
 
 ### Requisitos não Funcionais

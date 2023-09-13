@@ -17,7 +17,7 @@ Sabemos que aproximadamente 9 milhões de brasileiros com mais de 50 anos são a
 
 ## Objetivos
 
-Nossa aplicação irá dar orientação e encaminhar esses usuários a redes de educação de fácil acesso. Como hoje os mais jovens estão mais familiarizados a internet poderão ajudar aqueles que precisam do serviço, nosso objetivo também é criar algo fácil e rápido para que mesmo aqueles que não tem facilidade possam acessar.
+Nossa plataforma foi desenvolvida com a missão de oferecer apoio às pessoas idosas que enfrentam desafios relacionados à leitura e escrita, bem como às suas famílias. O nosso compromisso envolve tornar o aprendizado mais acessível, fortalecer os laços familiares, orientar sobre serviços essenciais e promover a solidariedade por meio de uma comunidade online. O nosso objetivo central é aprimorar a qualidade de vida dessas pessoas e contribuir para uma sociedade brasileira mais inclusiva e solidária.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)

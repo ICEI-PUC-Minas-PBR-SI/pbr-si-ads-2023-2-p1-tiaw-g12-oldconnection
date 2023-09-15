@@ -42,6 +42,8 @@ Existem correntes de pensamento que dizem que o combate ao analfabetismo deve ir
 ## Público-Alvo
 
 Old Conection irá ser alvo de filhos, netos ou ate mesmo não parentes, que querem trazer uma melhor qualidade de vida e independência aqueles que precisam.
+Nosso projeto também irá ser alvo de professores e escolas que tennham interesse em ajudar orientando e indicando o melhor caminho.
+O que nosso público alvo ira procurar em nosso site é a facilidade. Nosso principal público alvo são idosos que no passado tiveram pouco informação e a falta de oportunidade.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

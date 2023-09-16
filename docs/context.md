@@ -24,7 +24,7 @@ Nossa plataforma foi desenvolvida com a missão de oferecer apoio às pessoas id
 
 ## Justificativa
 
-É curioso que mesmo estando no seculo 20 e com tanto avanço tecnlogico numa época em que estejamos discuntindo o desenvolvimento de Inteligências Artificiais que visam ajudar o ser humano em diversas tarefas e com uma sociedade tão globalizada ainda exista uma parcela siginificativa da população que continua sem saber ler e escrever. Os motivos que contribuem para esse cenário são os mais diversos como evasão escolar; Uma pessoa pode abandonar os estudos por varias razões complexas como a falta de incentivo por parte da familia
+É curioso que mesmo estando no seculo 20 e com tanto avanço tecnlógico numa época em que estejamos discuntindo o desenvolvimento de Inteligências Artificiais que visam ajudar o ser humano em diversas tarefas e com uma sociedade tão globalizada ainda exista uma parcela siginificativa da população que continua sem saber ler e escrever. Os motivos que contribuem para esse cenário são os mais diversos como evasão escolar; Uma pessoa pode abandonar os estudos por varias razões complexas como a falta de incentivo por parte da familia
 e da sociedade, necessidades financeiras de ter de trabalhar para poder se sustentar, dificuldade de aprendizado não acompanhada por especialistas devido a falta de condições, etc. Outro problema
 é a falta de infraestrutura em muitas cidades para dar suporte aos seus habitantes; em muitos vilarejos sequer existem escolas e as vezes o aluno tem de percorrer uma longa jornada
 até que consiga ter acesso a uma e pode ser que nem haja uma alimentação adequada na escola o que acaba desmotivamendo ainda mais alunos extremamente carentes. Para que 

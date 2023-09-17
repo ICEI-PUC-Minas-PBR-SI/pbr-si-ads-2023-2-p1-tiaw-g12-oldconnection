@@ -4,30 +4,71 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Persona 1: Maria - A Aprendiz Motivada
+ 
+- Nome: Maria da Silva
+- Idade: 68 anos
+- Características:
+  - Maria é uma idosa com um forte desejo de aprender a ler e escrever. Ela sempre sentiu que a falta de habilidades de leitura a privou de muitas oportunidades ao longo de sua vida.
+  - Embora tenha dificuldades, Maria é motivada e dedicada a superar o analfabetismo. Ela tem tempo disponível e está disposta a participar de aulas regulares ou programas de treinamento online.
+  - Maria também valoriza a interação social e gostaria de fazer parte de um grupo de aprendizado com pessoas de sua idade.
+ 
+Persona 2: João - O Idoso Isolado
+ 
+- Nome: João Santos
+- Idade: 72 anos
+- Características:
+  - João vive sozinho desde que sua esposa faleceu e não tem filhos que possam ajudá-lo. Ele se sente isolado e dependente de outras pessoas para tarefas simples, como ler correspondências.
+  - João possui um smartphone básico e está disposto a aprender a usá-lo para melhorar suas habilidades de leitura e escrita.
+  - Ele tem limitações de mobilidade e não pode frequentar aulas presenciais com facilidade, preferindo soluções online.
+ 
+Persona 3: Ana - A Cuidadora Familiar
+ 
+- Nome: Ana Oliveira
+- Idade: 45 anos
+- Características:
+  - Ana é filha de uma idosa analfabeta, Maria, que mora com ela. Ela se preocupa profundamente com a mãe e deseja encontrar uma maneira eficaz de ajudá-la a superar o analfabetismo.
+  - Ana tem uma agenda ocupada com o trabalho e a família, por isso precisa de uma solução que possa ser facilmente incorporada à rotina de Maria.
+  - Ela está disposta a apoiar Maria em suas atividades de aprendizado, mas precisa de orientações claras sobre como fazer isso.
+ 
+Persona 4: Felipe - O Educador Voluntário
+ 
+- Nome: Felipe Ferreira
+- Idade:** 60 anos
+- Características:
+  - Felipe é um aposentado que era professor antes de se aposentar. Ele tem tempo livre e deseja contribuir para a comunidade, compartilhando seus conhecimentos.
+  - Ele tem experiência em ensino e está disposto a atuar como voluntário em programas de alfabetização para idosos.
+  - Felipe procura uma plataforma ou organização que o conecte aos idosos que precisam de ajuda.
+ 
+Persona 5: Luisa - A Profissional da Saúde
+ 
+- Nome: Luisa Alves
+- Idade: 38 anos
+- Características:
+  - Luisa é uma enfermeira que trabalha em um centro de saúde local. Ela frequentemente lida com idosos que têm dificuldades de saúde relacionadas à falta de habilidades de leitura, como entender prescrições médicas.
+  - Ela procura recursos educacionais que possa recomendar aos pacientes idosos para melhorar sua autonomia e compreensão de informações de saúde.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Contexto: Plataforma de Aprendizado Online
+ 
+1. Eu, como Maria (A Aprendiz Motivada), quero acessar aulas interativas de leitura e escrita online, para melhorar minhas habilidades de alfabetização e me sentir mais independente.
+ 
+2. Eu, como João (O Idoso Isolado), quero receber notificações e lembretes em meu smartphone sobre as lições e exercícios de alfabetização, para não perder nenhuma oportunidade de aprendizado.
+ 
+3. Eu, como Pedro (O Educador Voluntário), quero ter uma plataforma de ensino online onde eu possa criar e compartilhar lições de alfabetização, para ajudar os idosos em seu processo de aprendizado.
+ 
+Contexto: Suporte à Família e Cuidadores
+ 
+4. Eu, como Ana (A Cuidadora Familiar), quero receber orientações claras sobre como apoiar minha mãe, Maria, em seu aprendizado, para poder ajudá-la de forma eficaz em casa.
+ 
+Contexto: Integração com Serviços de Saúde
+ 
+5. Eu, como Luisa (A Profissional da Saúde), quero poder recomendar facilmente recursos de aprendizado de alfabetização para os idosos que atendo em minha clínica, para melhorar sua compreensão de informações de saúde.
+Com base nas histórias de usuário fornecidas, vou criar requisitos funcionais e não funcionais para a solução de combate ao analfabetismo entre os idosos. Os requisitos estão agrupados em dois grupos: Requisitos Funcionais (RF) e Requisitos Não Funcionais (RNF).
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)

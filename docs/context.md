@@ -10,17 +10,10 @@ Além de oferecer suporte prático, o aplicativo também terá um foco na criaç
 Faremos esse projeto pois sabemos que o acesso ao estudo nos tempos passados eram precários, e com isso os idosos hoje em dia estão em situação de não sabe ler nem escrever.
 Sabemos que aproximadamente 9 milhões de brasileiros com mais de 50 anos são analfabetos, e com nosso projeto iremos de alguma maneira facilitar o acesso a educação a essas pessoas.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Nossa plataforma foi desenvolvida com a missão de oferecer apoio às pessoas idosas que enfrentam desafios relacionados à leitura e escrita, bem como às suas famílias. O nosso compromisso envolve tornar o aprendizado mais acessível, fortalecer os laços familiares, orientar sobre serviços essenciais e promover a solidariedade por meio de uma comunidade online. O nosso objetivo central é aprimorar a qualidade de vida dessas pessoas e contribuir para uma sociedade brasileira mais inclusiva e solidária.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -36,8 +29,6 @@ De acordo com o IBGE – Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 Existem correntes de pensamento que dizem que o combate ao analfabetismo deve ir além da escola convencional e que empresas e a sociedade, de modo geral, precisam participar do processo. Sendo assim, o projeto OldConnection seria uma contribuição do meio académico no combate ao Analfabetismo tanto de adultos como de idosos.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -45,8 +36,3 @@ Old Conection irá ser alvo de filhos, netos ou ate mesmo não parentes, que que
 Nosso projeto também irá ser alvo de professores e escolas que tennham interesse em ajudar orientando e indicando o melhor caminho.
 O que nosso público alvo ira procurar em nosso site é a facilidade. Nosso principal público alvo são idosos que no passado tiveram pouco informação e a falta de oportunidade.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)

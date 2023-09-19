@@ -23,4 +23,4 @@ No projeto Old Connetion, minha contribuição foi:
 
 -Na etapa 1 eu ajudei a criar as personas.
 -Criei os objetivos.
--Ajudei no tema utilizado no projeto, baseado em um projeto em que presenciei e ajudei a criar junto com o Pedro Camilo e com Luan.
+-Ajudei no tema utilizado no projeto, baseado em um projeto em que presenciei e ajudei a criar junto com o Pedro Camilo e com Luan Mendes.

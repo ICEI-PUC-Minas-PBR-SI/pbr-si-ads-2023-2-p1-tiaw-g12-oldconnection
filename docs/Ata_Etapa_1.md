@@ -1,4 +1,4 @@
-**Pedro Camilo
+*Pedro Camilo*
 
 No projeto Old Connetion, minha contribuição foi:
 - Ajudei na Etapa 1 com criando especificações do projeto.

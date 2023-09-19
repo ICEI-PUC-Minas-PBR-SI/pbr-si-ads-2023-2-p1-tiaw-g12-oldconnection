@@ -9,12 +9,13 @@ No projeto Old Connetion, minha contribuição foi:
 
 No projeto Old Connetion, minha contribuição foi:
 
-Ajudei na Etapa 1 com criando a introdução e a justificativa do projeto.
-A sugestão do tema utilizado no projeto, baseado em um projeto em que presenciei e ajudei a criar junto com o Pedro Camilo.
-Contribui com uma parte do vídeo postado no YouTube, falando um pouco sou nosso projeto.
+- Ajudei na Etapa 1 com criando a introdução e a justificativa do projeto.
+- A sugestão do tema utilizado no projeto, baseado em um projeto em que presenciei e ajudei a criar junto com o Pedro Camilo.
+- Contribui com uma parte do vídeo postado no YouTube, falando um pouco sou nosso projeto.
 
 *Wellington de Sousa Reis*
--Ajudei na elaboração da justificativa
+
+- Ajudei na elaboração da justificativa
 - Fiz o levantamento de requisitos funcionais
 - Fiz o levantamento parcial de requisitos não funcionais
 

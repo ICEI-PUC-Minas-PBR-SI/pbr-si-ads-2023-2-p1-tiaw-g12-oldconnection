@@ -7,7 +7,6 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](IMG/OLD.jpg)
 
 ![Userflow principal](img/userflow.jpg)
 
@@ -27,7 +26,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Userflow principal](img/wireframe1.jpg)
 
  
 > **Links Úteis**:

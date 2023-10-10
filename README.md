@@ -13,11 +13,10 @@ O projeto consiste em conectar pessoas idosas analfabetas ou semi-analfabetas co
 ## Integrantes
 
 * Dayany Alves
-* Fabricio Fagner 
-* Luan 
+* Luan Luciano
 * Pedro Camilo 
 * Pedro Henrique
-* Victor
+* Victor Gomes de Miranda
 * Wellington de Sousa Reis
 
 ## Orientador

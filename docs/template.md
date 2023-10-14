@@ -20,7 +20,7 @@ Todo nosso site vai ser feito na na fonte ARIAL pois é a fonte formal, então e
 
 ## Iconografia
 
-Nosso icone de whatsapp ira da contato direto do com um numero direto com um dos criadores
+Nosso icone de whatsapp ira da contato direto do com um numero direto com um dos criadores;
 Primeiro ícone do nosso menu: tela principal;
 Segundo ícone: registrar; 
 terceiro ícone: mapa da região do usuário;

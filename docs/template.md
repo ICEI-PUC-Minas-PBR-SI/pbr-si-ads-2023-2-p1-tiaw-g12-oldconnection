@@ -16,10 +16,13 @@ As cores principais que irá nos dar uma identidade visual será: #ecebeb #EEC40
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-
+Todo nosso site vai ser feito na na fonte ARIAL pois é a fonte formal, então ela causa a primeira impressão, que dá o tom do conteúdo e ajuda a transmitir a mensagem desejada.
 
 ## Iconografia
+
+-Nosso icone de whatsapp ira da contato direto do com um numero direto com um dos criadores
+-
+
 
 Defina os ícones que serão utilizados e suas respectivas funções.
 

@@ -12,12 +12,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![area de cadastro1](img/1.jpg)
-![area de cadastro2](img/3.jpg)
-![login](img/4.jpg)
-![escolha](img/escolha.jpg)
-![Userflow principal](img/wireframe1.jpg)
-![mapa](img/mapa.png)
+![wireframe template](img/wireframe1.jpg)
+![tela de Login](img/login.png)
+![Cadastro de Responsável](img/cadastro-responsavel.png)
+![Cadastro de Aluno](img/cadastro-aluno.png)
+
 
 ### Exemplo
 

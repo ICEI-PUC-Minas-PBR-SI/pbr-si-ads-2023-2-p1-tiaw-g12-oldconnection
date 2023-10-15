@@ -38,9 +38,14 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![Cadastro de Aluno](img/tela-inicial-orientador.png)
 
+### Tela de Cadastro do Orientador
 
-### Exemplo
+![Cadastro de Aluno](img/cadastro-orientador.png)
 
-![Userflow principal](img/wireframe1.jpg)
+### Tela de Cadastro do Curso
+
+![Cadastro de Aluno](img/cadastro-curso.png)
+
+
  
 

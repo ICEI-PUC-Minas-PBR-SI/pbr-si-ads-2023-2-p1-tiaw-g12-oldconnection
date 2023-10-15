@@ -12,9 +12,20 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
+### Template
+
 ![wireframe template](img/wireframe1.jpg)
+
+### Tela de Login
+
 ![tela de Login](img/login.png)
+
+### Tela de cadastro do Responsável
+
 ![Cadastro de Responsável](img/cadastro-responsavel.png)
+
+### Tela de Cadastro do Aluno
+
 ![Cadastro de Aluno](img/cadastro-aluno.png)
 
 

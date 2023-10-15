@@ -14,11 +14,17 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ### Template
 
-![wireframe template](img/wireframe1.jpg)
+![wireframe template](img/template-padrão.png)
+
+
+
+### Tela inicial do Aluno/Responsavel
+
+![Cadastro de Aluno](img/tela-inicial-responsavel.png)
 
 ### Tela de Login
 
-![tela de Login](img/login.png)
+![tela de Login](img/Login.png)
 
 ### Tela de cadastro do Responsável
 
@@ -27,6 +33,10 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ### Tela de Cadastro do Aluno
 
 ![Cadastro de Aluno](img/cadastro-aluno.png)
+
+### Tela de Inicial do Orientador
+
+![Cadastro de Aluno](img/tela-inicial-orientador.png)
 
 
 ### Exemplo

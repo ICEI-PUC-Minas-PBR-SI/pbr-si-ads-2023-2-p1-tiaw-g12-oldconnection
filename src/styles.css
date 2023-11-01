@@ -2,28 +2,34 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
+
 body {
     font-family: Ari;
     background-color: #ecebeb;
 }
+
 #logo {
     position: absolute;
     left: 40px;
     top: 10px;
 }
+
 #logo img {
     border-radius: 25%;
     width: 100px;
 }
+
 #navbar {
     font-size: 25px;
     background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
     padding: 0;
     text-align: center;
-    
+    position: relative;
+    z-index: 2;
+   
 }
+
 #navbar img{
     width: 245px;
     border-radius: 25%;
@@ -36,12 +42,12 @@ body {
     float: left;
     margin-top: 129px;
     height: 160vh;
+    position: fixed;
+    z-index: 1;
+   
+  
 
     background: linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
-}
-
-#Menu {
-    text-align: center;
 }
 
 .icon-button {
@@ -58,10 +64,12 @@ body {
     cursor: pointer;
     display: flex;
     justify-content: space-between;
+   
 }
 
 .home-icon {
    width:50px; 
+   position:static; 
 }
 
 .play {
@@ -69,10 +77,12 @@ body {
    height:auto; 
    margin-top: 12px;
    margin-left: 12px;
+   position:static; 
+   
 }
 .VIDEO {
-    position:fixed; 
-    bottom:10px; 
+    position:fixed;  
+    margin-top: 100px;
     width:150px; 
     height:auto; 
 
@@ -94,14 +104,141 @@ body {
 
 #grid img {
    width:70%; 
-   cursor: pointer;
+   cursor:pointer; 
    height:auto; 
 }
 
 #whatsapp-button {
+
    position:fixed; 
    right:10px; 
    bottom:10px; 
    width:70px; 
    height:auto; 
+}
+
+
+.container {
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.col-sm {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+#navbar-mobile {
+    display: none;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    height: 150px;
+    font-size: 25px;
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    padding: 0;
+    text-align: center;
+    
+}
+
+#MobileIMG{
+    height: auto; 
+    width: 245px;
+    border-radius: 25%;
+    float: top;
+}
+
+/* CODIGO RESPONSIVIDADE MOBILE */
+@media screen and (max-width : 768px) {
+
+    /* altera a direção do layout principal para coluna quando em uma tela pequena. */
+    body {
+        flex-direction : column ;
+    }
+
+    
+
+    #navbar-mobile {
+        display: block;
+    }
+
+    #navbar {
+        display: none;
+    }
+
+
+    /* esconde o logo quando em uma tela pequena. */
+    #logo img {
+        width : 0% ;
+        display : block ;
+        margin-left : auto ;
+        margin-right : auto ;
+    }
+
+    /* ajusta a largura da imagem da navbar para 50% e centraliza-a quando em uma tela pequena. */
+    #navbar img{
+        width : 50% ;
+        display : block ;
+        margin-left : auto ;
+        margin-right : auto ;
+        order: 0;
+        
+    }
+
+    /* ajusta o layout da barra lateral para ser horizontal e centraliza seus itens quando em uma tela pequena. */
+    #sidebar {
+        position : static ;
+        width : 100% ;
+        height : auto ;
+        display : flex ;
+        flex-direction : row ;
+        justify-content : space-around ;
+        align-items: center;
+    }
+
+    /* ajusta o tamanho do ícone de casa para 30% e remove a margem superior quando em uma tela pequena. */
+    .home-icon {
+        max-width : 80% ;
+        order : 1 ; 
+        margin-top: 0; 
+    }
+
+    /* ajusta o tamanho do botão de play para ser igual ao do ícone de home e remove a margem superior quando em uma tela pequena. */
+    .play {
+       max-width : 90% ; 
+       order : 1 ; 
+       margin-top: 0; 
+    }
+
+    /* ajusta o tamanho do vídeo alinha à esquerda e acompanhar a rolagem do site */
+    .VIDEO {
+        width :30% ;  
+		order :-1 ; 
+		float:left; 
+		position:fixed;  
+		bottom:0; 
+		left:0; 
+    }
+
+    /* adiciona margens ao conteúdo principal */
+    #content {
+       margin-top : 20px ; 
+       margin-left : auto ; 
+       margin-right : auto ;  
+    }
+
+    /* ajusta a largura das imagens na grade para ocupar toda a largura */
+    #grid img {
+       width : 100% ;  
+    }
+
+    /* aove o botão do WhatsApp um pouco para a esquerda. */
+    #whatsapp-button {
+       right : -5% ;
+    }
+    
+  
 }

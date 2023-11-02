@@ -143,12 +143,19 @@ aside{
 .item-video-tuto{
     grid-column-start: 1;
     grid-column-end: 3;
+
 }
 
 .item-video-tuto img{
-    padding-left: 20%;
-    padding-top: 10%;
+    padding-left: 10%;
     width: 60%;
+
+    cursor: pointer;
+}
+
+.item-video-tuto img:hover{
+    width: 70%;
+    cursor: pointer;
 }
 
 section{
@@ -163,7 +170,7 @@ footer{
 }
 
 .whatsapp-button {
-    position:fixed; 
+    position: fixed;
     right:10px; 
     bottom: 30px; 
     width:70px; 

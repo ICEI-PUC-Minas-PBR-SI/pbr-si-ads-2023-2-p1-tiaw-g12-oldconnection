@@ -2,5 +2,5 @@
 
 function on_login()
 {
-    window.location.replace("template.html");
+    window.location.replace("main.html");
 }

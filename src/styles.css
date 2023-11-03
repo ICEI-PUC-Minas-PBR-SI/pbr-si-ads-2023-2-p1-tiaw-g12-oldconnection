@@ -37,12 +37,11 @@ body {
 }
 
 #sidebar {
-    position: absolute;
+    position: relative;
     width: 160px;
     float: left;
     margin-top: 129px;
     height: 160vh;
-    position: fixed;
     z-index: 1;
    
   

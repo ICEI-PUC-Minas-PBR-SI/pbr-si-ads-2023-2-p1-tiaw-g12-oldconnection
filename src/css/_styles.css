@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body{
@@ -179,13 +178,14 @@ aside{
     cursor: pointer;
 }
 
-section{
+
+.course-container{
     grid-column-start: 2;
     grid-column-end: 3;
     margin: 20px;
 }
 
-.section-container{
+.course-presentation{
     display: grid;
 
     grid-template-columns: 30% 1fr 20%;
@@ -195,7 +195,7 @@ section{
     background: linear-gradient(to left,#EEC400, #FFD820, #FFF139);
 }
 
-.section-container .container-img{
+.course-presentation .container-img{
     grid-column-start: 1;
     grid-column-end: 2;
 
@@ -206,14 +206,14 @@ section{
     
 }
 
-.section-container .container-img img{
+.course-presentation .container-img img{
     width: 100%;
     height: 100%;
 
     cursor: pointer;
 }
 
-.section-container .container-title{
+.course-presentation .container-title{
     grid-column-start: 2;
     grid-column-end: 4;
 
@@ -227,12 +227,12 @@ section{
     background: linear-gradient(to left,#EEC400, #FFD820, #FFF139);
 }
 
-.section-container .container-title h5{
+.course-presentation .container-title h5{
     margin: 0;
     color: black;
 }
 
-.section-container .container-description{
+.course-presentation .container-description{
     grid-column-start: 2;
     grid-column-end: 3;
 
@@ -243,11 +243,11 @@ section{
 
 }
 
-.section-container .container-description p{
+.course-presentation .container-description p{
     color:black;
 }
 
-.section-container .container-actions{
+.course-presentation .container-actions{
     grid-column-start: 3;
     grid-column-end: 4;
 
@@ -255,12 +255,12 @@ section{
     grid-row-end: 3;
 }
 
-.section-container .container-actions .action-item{
+.course-presentation .container-actions .action-item{
     display: flex;
     justify-content:center;
 }
 
-.section-container .container-actions .action-item button{
+.course-presentation .container-actions .action-item button{
     background-color: #0094B2;
     color: white;
 
@@ -272,8 +272,82 @@ section{
     cursor: pointer;
 }
 
-.section-container .container-actions .action-item button:hover{
+.course-presentation .container-actions .action-item button:hover{
     background-color: #0094B2;
+}
+
+/*CONTOLES PARA TELAS DE REGISTROS*/
+ .register{
+    display: grid;
+
+    grid-template-columns: 30% 1fr 30%;
+    grid-template-rows: 100%;
+ }
+ 
+ .register .container{
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+    margin-top: 25px;
+
+}
+
+.register .container .horizontal-layout{
+    display: flex;
+}
+
+
+.register .container .component{
+    margin-top: 20px;
+}
+
+.register .container .horizontal-layout span{
+    display:inline-block; 
+    width: 30px;
+}
+
+.register .container .component label{
+    display: block;
+}
+
+
+.register .container *.component input, textarea, button, select{
+    border-radius: 20px;
+
+    background-color: #0094B2;
+    color: white;
+    font-size: 25px;
+
+    width: 100%;
+}
+
+.register .container .horizontal-layout button{
+    border-radius: 20px;
+
+    background-color: #0094B2;
+    color: white;
+    font-size: 25px;
+
+    width: 150px;
+}
+
+.register .container .component button:hover{
+    background-color: #EEC400;
+    color: black;
+
+    font-size: 25px;
+}
+
+.register .container .component input:focus, textarea:focus, select:focus{
+    background-color: #EEC400;
+    color: black;
+
+    font-size: 25px;
+}
+
+.register .register-footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 footer{

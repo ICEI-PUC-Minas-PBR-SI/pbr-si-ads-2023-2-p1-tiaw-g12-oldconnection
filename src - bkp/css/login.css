@@ -28,80 +28,45 @@ header{
 
 .header-container{
     display: grid;
-    grid-template-columns: 33% 1fr 33%;
+    grid-template-columns: 33% 1fr 20%;
     grid-template-rows: 100%;
-}
-
-.conta-orientador-container{
-    grid-column-start: 1;
-    grid-column-end: 2;
 }
 
 .logo-container{
     padding: 10px;
-    grid-column-start: 2;
-    grid-column-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
 }
 
-.conta-responsavel-container{
+.nova-conta-container{
     grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.conta-orientador-container .nova-conta-item{
-    display: flex;
-    justify-content: flex-start;
-
-    padding-top: 30px;
-    padding-left: 30px;
-
-}
-
-.conta-orientador-container .nova-conta-item button{
-    
-    background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
-    color:#074f5f;
-    font-size: 1.2em;
-    width: 220px;
-    height: 60px;
-}
-
-.conta-orientador-container .nova-conta-item button:hover{
-
-    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
-    color:#074f5f;
-    cursor: pointer;
-}
-
-.logo{
-    display: flex;
-    justify-content:center;
-}
-
-.conta-responsavel-container .nova-conta-item{
-    display: flex;
-    justify-content: flex-end;
-
-    padding-top: 30px;
+.nova-conta-container .nova-conta-item{
+    padding-left: 20px;
     padding-right: 30px;
-
+    padding-bottom: 5px;
 }
 
-
-.conta-responsavel-container .nova-conta-item button{
-    
-    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
-    color:#074f5f;
+.nova-conta-container .nova-conta-item h3{
+    text-align: center;
     font-size: 1.2em;
-    width: 220px;
-    height: 60px;
+    color:white;
 }
 
-.conta-responsavel-container .nova-conta-item button:hover{
-
+.nova-conta-container .nova-conta-item button{
+    
     background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
-    color:#074f5f;
-    cursor: pointer;
+    color:#0094B2;
+    font-size: 1.2em;
+    width: 180px;
+    height: 30px;
+}
+
+.nova-conta-container .nova-conta-item button:hover{
+    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
+    color: white;
 }
 
 main{
@@ -121,7 +86,6 @@ main{
     margin: 0 auto;
     width: 40%;
     height: 100%;
-
 }
 
 
@@ -129,7 +93,6 @@ main{
 .login-form{
     
     background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
-    border-radius: 25px;
 }
 
 .login-form h1{
@@ -161,19 +124,12 @@ main{
     font-size: 1.5em;
     color: white;
     margin: 0 auto;
-
-    border-radius: 25px;
-}
-
-.login-form-component .login-textbox:focus{
-    background-color: #0094B2;
 }
 
 
 .login-form-component .login-label{
     color:#074f5f;
     font-size: 1.5em;
-
 }
 
 .login-form-component .login-checkbox{
@@ -187,13 +143,6 @@ main{
     
     font-size: 1.5em;
     color: white;
-
-    border-radius: 25px;
-}
-
-.login-form-component button:hover{
-    background-color: #0094B2;
-    font-size: 1.6em;
 }
 
 footer{
@@ -205,11 +154,3 @@ footer{
 
     /*background-color: burlywood;*/
 }
-
-.whatsapp-button {
-    position: fixed;
-    right:10px; 
-    bottom: 30px; 
-    width:70px; 
-    height:auto; 
- }

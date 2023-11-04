@@ -26,8 +26,7 @@ body{
     grid-column-start: 1;
     grid-column-end: 2;
 
-
-    background: linear-gradient(to top,#074f5f,#0094B2);
+    background: linear-gradient(to right,#FFF139, #FFD820, #EEC400);
 }
 
 .logo-container img{
@@ -42,7 +41,7 @@ body{
     grid-column-end: 3;
 
     font-size: 25px;
-    background: linear-gradient(to top,#074f5f,#0094B2);
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
     
 }
 
@@ -68,34 +67,26 @@ body{
 header{
     grid-column-start: 1;
     grid-column-end: 3;
-
-    
 }
 
 main{
     grid-column-start: 2;
     grid-column-end: 3;
-
-    background-color: #074f5f;
-
-    color: wheat;
 }
 
 article{
-    padding-left: 30px;
-    padding-top: 20px;
+    
 }
 
 aside{
     grid-column-start: 1;
     grid-column-end: 2;
 
-    
-    background: #074f5f;
+    background: linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
 }
 
 .side-menu-item:hover{
-    background: #0094B2;
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
 }
 .side-menu-item{
     display: grid;
@@ -175,7 +166,7 @@ footer{
     grid-column-start: 1;
     grid-column-end: 3;
 
-    background: linear-gradient(to bottom,#9c851f, #FFD820, #FFF139);
+    background: linear-gradient(to right,#FFF139, #FFD820, #EEC400);
 }
 
 .whatsapp-button {

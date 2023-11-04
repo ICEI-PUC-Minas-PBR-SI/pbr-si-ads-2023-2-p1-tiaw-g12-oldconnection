@@ -189,7 +189,7 @@ body {
 
     /* ajusta o layout da barra lateral para ser horizontal e centraliza seus itens quando em uma tela pequena. */
     #sidebar {
-        position : static ;
+        position : fixed;
         width : 100% ;
         height : auto ;
         display : flex ;

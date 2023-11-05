@@ -157,6 +157,12 @@ body {
     background: white;
     cursor: pointer;
   }
+
+.BemVindo {
+    text-align: center;
+    margin-top: -30px; /* Move o texto 20px para cima */
+  margin-left: -600px;
+  }
   
   
   #meuCheckbox:checked {

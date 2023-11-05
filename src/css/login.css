@@ -6,7 +6,7 @@ body{
     height: 100vh;
     font-family: 'Roboto', sans-serif;
 
-    background: linear-gradient(#074f5f,#0094B2,#19ADCB,#32C6E4);
+    background: linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
     /*background: linear-gradient(#32C6E4,#0094B2,#19ADCB,#074f5f);*/
     
 }
@@ -59,8 +59,8 @@ header{
 
 .conta-orientador-container .nova-conta-item button{
     
-    background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
-    color:#074f5f;
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    color:#0095B5;
     font-size: 1.2em;
     width: 220px;
     height: 60px;
@@ -68,8 +68,8 @@ header{
 
 .conta-orientador-container .nova-conta-item button:hover{
 
-    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
-    color:#074f5f;
+    background: linear-gradient(to right,#FFF139, #FFD820, #EEC400);
+    color:#19ADCB;
     cursor: pointer;
 }
 
@@ -90,8 +90,8 @@ header{
 
 .conta-responsavel-container .nova-conta-item button{
     
-    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
-    color:#074f5f;
+    background: linear-gradient(to right,#FFF139, #FFD820, #EEC400);
+    color:#0095B5;
     font-size: 1.2em;
     width: 220px;
     height: 60px;
@@ -99,8 +99,8 @@ header{
 
 .conta-responsavel-container .nova-conta-item button:hover{
 
-    background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
-    color:#074f5f;
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    color:#19ADCB;
     cursor: pointer;
 }
 
@@ -128,18 +128,18 @@ main{
 
 .login-form{
     
-    background: linear-gradient(to right,#9c851f, #FFD820, #FFF139);
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
     border-radius: 25px;
 }
 
 .login-form h1{
-    color: #074f5f;
+    color: #0095B5;
     font-size: 2.5em;
     text-align: center;
 }
 
 .login-form:hover{
-    background: linear-gradient(to right,#FFF139, #FFD820, #9c851f);
+    background: linear-gradient(to right,#FFF139, #FFD820, #FFF139);
 }
 
 .login-form-component{
@@ -157,7 +157,7 @@ main{
 
 .login-form-component .login-textbox{
     width: 75%;
-    background-color: #074f5f;
+    background-color: #0095B5;
     font-size: 1.5em;
     color: white;
     margin: 0 auto;
@@ -166,12 +166,12 @@ main{
 }
 
 .login-form-component .login-textbox:focus{
-    background-color: #0094B2;
+    background-color: #19ADCB;
 }
 
 
 .login-form-component .login-label{
-    color:#074f5f;
+    color:#0095B5;
     font-size: 1.5em;
 
 }
@@ -183,7 +183,7 @@ main{
 .login-form-component button{
     width: 95%;
     height: 50px;
-    background-color: #074f5f;
+    background-color: #0095B5;
     
     font-size: 1.5em;
     color: white;
@@ -192,7 +192,7 @@ main{
 }
 
 .login-form-component button:hover{
-    background-color: #0094B2;
+    background-color: #19ADCB;
     font-size: 1.6em;
 }
 

@@ -25,10 +25,9 @@ h1{
 }
 #logo2 {
     font-size: 25px;
-    background:linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
     padding: 0;
     text-align: center;
-    
     
 }
 #logo2 img{
@@ -43,7 +42,7 @@ input{
     padding: 10px;
     cursor: pointer;
     border-radius: 10px;
-    background:linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    background:linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
 }
     
 #corpo{
@@ -52,4 +51,3 @@ input{
     text-align: center;
     border-radius: 2px solid black;
 }
-

@@ -13,11 +13,111 @@ body {
     position: absolute;
     left: 40px;
     top: 10px;
+    z-index: 99999;
 }
 
 #logo img {
     border-radius: 25%;
     width: 100px;
+}
+article{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.course-container{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin: 20px;
+}
+
+.course-presentation{
+    display: grid;
+
+    grid-template-columns: 30% 1fr 20%;
+    grid-template-rows: 20% 1fr;
+
+    /*background: linear-gradient(to bottom,#9c851f, #FFD820);*/
+    background-color:  #79d5db;}
+
+.course-presentation .container-img{
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    grid-row-start: 1;
+    grid-row-end: 3;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.course-presentation .container-img img{
+    width: 100%;
+    height: 100%;
+
+    cursor: pointer;
+}
+
+.course-presentation .container-title{
+    grid-column-start: 2;
+    grid-column-end: 4;
+
+    grid-row-start: 1;
+    grid-row-end: 2;
+
+    text-align: center;
+    font-size: 1.3em;
+
+    /*background: linear-gradient(to top,#9c851f, #FFD820, #FFF139);*/
+    background-color:  #79d5db;
+}
+
+.course-presentation .container-title h5{
+    margin: 0;
+    color: black;
+}
+
+.course-presentation .container-description{
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+    padding-left: 10px;
+
+}
+
+.course-presentation .container-description p{
+    color:black;
+}
+
+.course-presentation .container-actions{
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.course-presentation .container-actions .action-item{
+    display: flex;
+    justify-content:center;
+}
+
+.course-presentation .container-actions .action-item button{
+    background-color: #0094B2;
+    color: white;
+
+    width: 100px;
+    height: 30px;
+
+    border-radius: 20px;
+
+    cursor: pointer;
+}
+
+.course-presentation .container-actions .action-item button:hover{
+    background-color: #0094B2;
 }
 
 #navbar {
@@ -81,9 +181,11 @@ body {
 }
 .VIDEO {
     position:fixed;  
-    margin-top: 100px;
+    margin-top: 180px;
+    bottom: 0;
     width:150px; 
     height:auto; 
+
 
 }
 
@@ -107,19 +209,8 @@ body {
    height:auto; 
 }
 
-.quadrado {
-    width: 1000px;
-    height: 600px;
-    background:linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
-    position: absolute;
-    top: 60%;
-    left: 54%;
-    transform: translate(-50%, -50%);
-    padding: 20px;
-    box-sizing: border-box;
-}
-
 #whatsapp-button {
+
    position:fixed; 
    right:10px; 
    bottom:10px; 
@@ -161,30 +252,6 @@ body {
     float: top;
 }
 
-.form {
-    display: flex;
-    justify-content: space-between;
-}
-
-.form-details {
-   height: 200px;
-   width: 200px;
-   flex-direction: column;
-}
-
-#title-form {
-    text-align: center;
-}
-
-.text-input {
-    width: 173px;
-}
-
-.btn-add {
-    width: 200px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 /* CODIGO RESPONSIVIDADE MOBILE */
 @media screen and (max-width : 768px) {
 
@@ -224,7 +291,7 @@ body {
 
     /* ajusta o layout da barra lateral para ser horizontal e centraliza seus itens quando em uma tela pequena. */
     #sidebar {
-        position : fixed;
+        position : static ;
         width : 100% ;
         height : auto ;
         display : flex ;
@@ -249,12 +316,13 @@ body {
 
     /* ajusta o tamanho do vídeo alinha à esquerda e acompanhar a rolagem do site */
     .VIDEO {
-        width :30% ;  
-		order :-1 ; 
-		float:left; 
-		position:fixed;  
-		bottom:0; 
-		left:0; 
+        position:fixed;  
+        margin-top: 180px;
+        bottom: 0;
+        width:150px; 
+        height:auto; 
+
+    
     }
 
     /* adiciona margens ao conteúdo principal */

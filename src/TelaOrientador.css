@@ -98,6 +98,7 @@ body {
     position:fixed;  
     margin-top: 100px;
     width:150px; 
+    bottom: 0;
     height:auto; 
 
 }
@@ -287,17 +288,14 @@ body {
     flex-grow: 1; 
 }
 
-
-
 .curso-info1 {
     flex-grow: 1;
 }
 
-
-
 .quadrado {
     width: 1000px;
     height: 600px;
+    margin-top: 100px;
     background: linear-gradient(#539AC9, #6ABAD0);
     position: absolute;
     top: 60%;

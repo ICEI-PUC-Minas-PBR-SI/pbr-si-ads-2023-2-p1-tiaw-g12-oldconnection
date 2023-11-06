@@ -10,6 +10,16 @@ body{
     /*background: linear-gradient(#32C6E4,#0094B2,#19ADCB,#074f5f);*/
     
 }
+.Logo {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    margin-top: 25px;
+    margin-right: 25px;
+    width: 150px;
+    border-radius: 25%;
+}
 
 .main-container{
     display: grid;
@@ -37,11 +47,7 @@ header{
     grid-column-end: 2;
 }
 
-.logo-container{
-    padding: 10px;
-    grid-column-start: 2;
-    grid-column-end: 3;
-}
+
 
 .conta-responsavel-container{
     grid-column-start: 3;
@@ -73,9 +79,11 @@ header{
     cursor: pointer;
 }
 
+
 .logo{
     display: flex;
     justify-content:center;
+    border-radius: 25%;
 }
 
 .conta-responsavel-container .nova-conta-item{

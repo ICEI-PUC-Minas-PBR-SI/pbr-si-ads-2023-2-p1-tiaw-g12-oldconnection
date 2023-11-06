@@ -2,31 +2,27 @@
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-        <title>login</title>
-        <link rel="stylesheet" type="text/css" href="css/login.css">
+        <title>Login</title>
+        <link rel="stylesheet" type="text/css" href="Login.css">
     </head>
     <body class="main-container">
         <header>
-            
             <div class="header-container">
                 <div class="conta-orientador-container">
                     <div class="nova-conta-item">
-                        <button onclick="on_criar_conta_orientador()">Quero ensinar</button>
+                        <a href="CadastroOrientador.html"> <button onclick="">Quero ensinar</button> </a>
                     </div>
-                </div>
-                <div class="logo-container">
-                    <div class="logo">
-                        <img src="imgs/Logos/logo-img.png" alt="Início" onclick="console.log('botão')">
-                    </div>
-                </div>
-                <div class="conta-responsavel-container">
                     <div class="nova-conta-item">
-                        <button onclick="on_criar_conta_responsavel()">Quero aprender</button>
+                        <a href="CadastroAluno.html"> <button onclick="">Quero aprender</button> </a>
+                    </div>
+                    <div class="nova-conta-item">
+                        <a href="CadastroResponsavel.html"><button>Sou o Responsável</button></a>
                     </div>
                 </div>
             </div>
-            
+            <img class="Logo" src="imgs/Logos/Logo.jpg" alt="">
         </header>
+
         <main>
             <section class="login-container">
                 

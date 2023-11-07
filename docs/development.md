@@ -65,3 +65,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Gratuitos/Pagos| CheckBox          | Identificador de cursos pagos/gratuitos   | (x)Curso Pago ()Curso Gratuito                 |
 | Add Cursos     | input             | Campo para adicionar os cursos do orientador | [img] Curso de Português                    |
 | usuario  | input        | usuario de acesso ao curso | gabriel_22                                           |
+|senha    | input            | campo para digitar senha de entrada ao curso |6518674168                   |
+|repita sua senha    | input             | comfirmação de senha |6518674168                 |
+| email     | input             | para confimação de usuario |gabriel.22@gmail.com                   |
+| confirmação de email   | input             | confimar seu email |gabriel.22@gmail.com                   |
+| nome completo   | input             |campo para digitação do nome completo |Gabriel Gomes Ferreira                    |
+|data de nascimento    | input             |data de nascimento do usuario |25/08/1998                  |
+|sexo    | input             |indentificação do sexo do usuário |masculino                    |
+| escolaridade    | input             |indentificar a escolaridade de cada um | ensino superior incompleto                 |
+| profissão    | input             | dados de profissões  |estagiário                    |
+| rua     | input             | localizar a rua do usuario | av afonso vaz de melo                   |
+| numero   | input             | numero da casa / ap do usuario |50                   |
+| complemento     | input             | facil identificação do endereço (opcional)|em frente a Puc Minas                    |
+| bairro   | input             | indentificar o bairro | vila da paz                    |
+| municipio   | input             | indentificar municipio| Belo Horizonte                   |
+| CEP  | input             | para facilitar localizar o endereço |30675459                    |
+| voltar    | button             | voltar para tela de login | (sem ex)                  |
+| confirmar   | button           | ir para os cursos  | (sem ex)                    |

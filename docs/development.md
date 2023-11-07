@@ -39,8 +39,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Notícia
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| usuario             | Texto  | Credencial de acesso ao sistema            | marcos_pereira                                              |
+| senha         | Texto             | codigo de uso pessoal e instrasferivel para acessar o sistema                         | mp_240753#abt                                  |
+| Nome_curso       | Texto             | Nome dado há um curso                       | curso de portugues - módulo I                            |
+| Descricao_curso  | Texto  | Descrição do conteudo do curso | Este curso vai ensinar o basico sobre fonemas e silabas                                              |
+| inicio_inscricao_curso  | Data  | Data de inicio da inscrição do curso | 22/01/2024                                              |
+| fim_inscricao_curso  | Data  | Data de fim da inscrição do curso | 22/02/2024                                              |
+| quantidade_vagas_curso  | Número  | Numero total de vagas ofertadas | 20                                              |
+| telefone_contato_curso  | Texto  | Telefone disponivel para tirar duvidas sofre o curso | 3132220404                                              |
+| lista_imagens_curso  | Lista  | Lista de imagens sobre o curso | img_01.jpg, img_02.jpg, img_03.jpg, img_04.jpg                                              |
+| lista_tags_curso  | Lista  | Lista de etiquetas sobre o curso | educação, portugues                                              |
+| link_video_apresentacao  | Texto  | DLink para um video em uma plataforma externa de apresentação | www.youtbe.com/sjdkjsfdldsdsdkd                                              |
+| local_curso_rua  | Texto  | Endereço - rua - local do curso | Rua Mario Werneck                                              |
+| local_curso_numero  | Texto  | Endereço - número - local do curso | 3423                                              |
+| local_curso_complemento  | Texto  | Endereço - complemento - local do curso | Prédio B                                             |
+| local_curso_bairro  | Texto  | Endereço - bairro - local do curso | Barreiro                                              |
+| local_curso_municipio  | Texto  | Endereço - municipio - local do curso | Belo Horizonte                                              |
+| local_curso_cep  | Texto  | Endereço - cep - local do curso | 30495000                                              |
 

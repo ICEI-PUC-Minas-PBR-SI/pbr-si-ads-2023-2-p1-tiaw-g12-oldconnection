@@ -26,3 +26,8 @@ No projeto Old Connetion, minha contribuição foi:
 - Criei a tela do Orientador
 - Ajudei o Victor Gomes em configurar o template em algumas telas.
 - Ajudei o Pedro Camilo na criação das telas.
+
+*Pedro Camilo Nunes de Souza*
+No projeto Old Connetion, minha contribuição foi:
+- Criei a tela do Cadastro do novo orientador
+  

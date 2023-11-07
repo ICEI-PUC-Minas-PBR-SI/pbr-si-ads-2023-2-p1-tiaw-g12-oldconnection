@@ -82,3 +82,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | CEP  | input             | para facilitar localizar o endereço |30675459                    |
 | voltar    | button             | voltar para tela de login | (sem ex)                  |
 | confirmar   | button           | ir para os cursos  | (sem ex)                    |
+| id do responsavel   | input          | indentificar quem e responsacel por aquele aluno | julio22                   |
+|possui necessidade especial, descreva:   | textarea        | indentificar necessidades de cada usuario  | auxilio de cadeiras de rodas                 |

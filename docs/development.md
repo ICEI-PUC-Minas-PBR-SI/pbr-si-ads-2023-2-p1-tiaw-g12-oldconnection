@@ -32,6 +32,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-030| Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas. | ALTA | index.html |
 |RF-009| O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | CadastroCurso.html |
 |RF-010| O sistema deve permitir que um "Orientador" responsável pelo curso cadastre informações como data, duração em dias, hora de incio, hora de fim, telefone de contato, quantidade de horas, preço, ementa do curso, local de realização caso seja presencial, link de acesso caso seja virtual. | ALTA | CadastroCurso.html |
+|RF-009|O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | TelaOrientador.html |
+|RF-010|O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM| ALTA | TelaOrientador.html |
 
 
 ## Descrição das estruturas:
@@ -56,4 +58,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | local_curso_bairro  | Texto  | Endereço - bairro - local do curso | Barreiro                                              |
 | local_curso_municipio  | Texto  | Endereço - municipio - local do curso | Belo Horizonte                                              |
 | local_curso_cep  | Texto  | Endereço - cep - local do curso | 30495000                                              |
-
+|Cursos ativos/Encerrados | CheckBox | Identificador De cursos ativos encerrados | (x)Curso Ativo ()Curso Encerrados              |
+| Boas vindas    | Texto             | Mensagem de boas vindas para orientador   | Bem-VIndo, Orientaodor                         |
+| Gratuitos/Pagos| CheckBox          | Identificador de cursos pagos/gratuitos   | (x)Curso Pago ()Curso Gratuito                 |
+| Add Cursos     | input             | Campo para adicionar os cursos do orientador | [img] Curso de Português                    |

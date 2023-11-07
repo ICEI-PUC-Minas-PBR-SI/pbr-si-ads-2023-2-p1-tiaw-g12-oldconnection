@@ -27,8 +27,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-009|O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | index.html |
-|RF-010|O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM| ALTA | cadastro-noticia.html |
+|RF-009|O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | TelaOrientador.html |
+|RF-010|O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM| ALTA | TelaOrientador.html |
 
 ## Descrição das estruturas:
 

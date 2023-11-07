@@ -34,6 +34,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-010| O sistema deve permitir que um "Orientador" responsável pelo curso cadastre informações como data, duração em dias, hora de incio, hora de fim, telefone de contato, quantidade de horas, preço, ementa do curso, local de realização caso seja presencial, link de acesso caso seja virtual. | ALTA | CadastroCurso.html |
 |RF-009|O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | TelaOrientador.html |
 |RF-010|O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM| ALTA | TelaOrientador.html |
+|RF-011|O sistema deve permitir que um responsável tenha acesso ao site através da tela de login e pra isso deverá fazer um cadastro| ALTA | CadastroResponsavel.html |
+|RF-012|O sistema deve permitir que o aluno faça um cadastro para ter acesso somente aos cursos do site | ALTA | CadastroAluno.html |
 
 
 ## Descrição das estruturas:

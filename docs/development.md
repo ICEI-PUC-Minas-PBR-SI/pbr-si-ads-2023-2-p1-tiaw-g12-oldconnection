@@ -27,8 +27,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
+|RF-028| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso. | ALTA | index.html |
+|RF-029| Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas. | MEDIA | index.html |
+|RF-030| Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas. | ALTA | index.html |
+|RF-009| O sistema deve permitir que o "Orientador" cadastre cursos e os reponsáveis por ministrá-lo. | ALTA | CadastroCurso.html |
+|RF-009| O sistema deve permitir que um "Orientador" responsável pelo curso cadastre informações como data, duração em dias, hora de incio, hora de fim, telefone de contato, quantidade de horas, preço, ementa do curso, local de realização caso seja presencial, link de acesso caso seja virtual. | ALTA | CadastroCurso.html |
+
 
 ## Descrição das estruturas:
 

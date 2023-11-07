@@ -108,6 +108,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-027| O sistema deve permitir que o "Orientador" faça o upload de videos para dentro da plataforma que demonstrem mais detalhes sobre o curso. Esses recursos visuais sao especialmente uteis para os Alunos que tem dificuldade em ler e escrever    | BAIXA | |
 |RF-028| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso.    | ALTA | |
 |RF-029| Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas.    | ALTA | |
+|RF-030| Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.   | ALTA | |
 
 
 

@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | lista_imagens_curso  | Lista  | Lista de imagens sobre o curso | img_01.jpg, img_02.jpg, img_03.jpg, img_04.jpg                                              |
 | lista_tags_curso  | Lista  | Lista de etiquetas sobre o curso | educação, portugues                                              |
 | link_video_apresentacao  | Texto  | DLink para um video em uma plataforma externa de apresentação | www.youtbe.com/sjdkjsfdldsdsdkd                                              |
-| local_curso_rua  | Texto  | Endereço - rua - local do curso | Rua Mario Werneck                                              |
+| local_curso_rua  | Texto  | Endereço - rua - local do curso | Rua David Sarnoff                                              |
 | local_curso_numero  | Texto  | Endereço - número - local do curso | 3423                                              |
 | local_curso_complemento  | Texto  | Endereço - complemento - local do curso | Prédio B                                             |
 | local_curso_bairro  | Texto  | Endereço - bairro - local do curso | Barreiro                                              |

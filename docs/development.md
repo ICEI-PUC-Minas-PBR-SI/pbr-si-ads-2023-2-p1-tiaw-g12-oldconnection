@@ -64,3 +64,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Boas vindas    | Texto             | Mensagem de boas vindas para orientador   | Bem-VIndo, Orientaodor                         |
 | Gratuitos/Pagos| CheckBox          | Identificador de cursos pagos/gratuitos   | (x)Curso Pago ()Curso Gratuito                 |
 | Add Cursos     | input             | Campo para adicionar os cursos do orientador | [img] Curso de Português                    |
+| usuario  | input        | usuario de acesso ao curso | gabriel_22                                           |

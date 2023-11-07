@@ -30,4 +30,9 @@ No projeto Old Connetion, minha contribuição foi:
 *Pedro Camilo Nunes de Souza*
 No projeto Old Connetion, minha contribuição foi:
 - Criei a tela do Cadastro do novo orientador
+
+*Luan Mendes*
+- Criei a tela de meus cursos 
+- ajudei nas decisões de mudanças e implementações das ideias
+
   

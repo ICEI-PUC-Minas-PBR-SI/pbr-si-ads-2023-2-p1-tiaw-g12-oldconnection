@@ -11,26 +11,23 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+As cores principais que irá nos dar uma identidade visual será: #ecebeb #EEC400 #FFD820 #FFF139 #0095B5 #0094B2 #19ADCB #32C6E4 #000000
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-
+Todo nosso site vai ser feito na na fonte ARIAL pois é a fonte formal, então ela causa a primeira impressão, que dá o tom do conteúdo e ajuda a transmitir a mensagem desejada.
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
+Nosso icone de whatsapp ira ter contato direto d um de nosso criadores;
 
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
+Primeiro ícone do nosso menu: tela principal;
 
+Segundo ícone: registrar; 
 
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+terceiro ícone: mapa da região do usuário;
+
+botão do Youtube sera ultilizado para direcionar para um vídeo de explicação das funcionalidades do site.
+
+Cada módulo terá sua respecitiva matéria e aulas.

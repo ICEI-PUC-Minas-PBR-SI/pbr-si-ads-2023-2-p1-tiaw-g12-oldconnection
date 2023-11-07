@@ -21,3 +21,8 @@ No projeto Old Connetion, minha contribuição foi:
 - Ajudei a escrever a documentação
 - Fiz o template padrão
 - Gerenciei o projeto como um "SCRUM"
+  
+*Pedro Fonseca*
+-Criei a tela do Orientador
+-Ajudei o Victor Gomes em configurar o template em algumas telas.
+-Ajudei o Pedro Camilo na criação das telas.

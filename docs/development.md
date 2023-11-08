@@ -91,3 +91,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Mostra os cursos disponiveis para podem ser adquiridos | Indentificar os cursos que cada aluno tem |                     |
 | Atalho para os Cursos Possuidos | Filtro de Cursos adquiridos |                             |
 | Gerenciamento de subcrição de curso | Cancelamento ou alteração |                        |
+| Usuário | input | identificação do usuário | jorge23 |

@@ -36,6 +36,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-010|O sistema deve permitir que um "Orientador" responsável pelo curso classifique-o como CURSO PRESENCIAL, LIVE, LINK PARA PLATAFORMA DE STREAM| ALTA | TelaOrientador.html |
 |RF-011|O sistema deve permitir que um responsável tenha acesso ao site através da tela de login e pra isso deverá fazer um cadastro| ALTA | CadastroResponsavel.html |
 |RF-012|O sistema deve permitir que o aluno faça um cadastro para ter acesso somente aos cursos do site | ALTA | CadastroAluno.html |
+|RF-013|O sistema deve possuir uma barra de pesquisa de nomes de cursos ou palavras chave para facilitar encontrar postagens de interesse	|MEDIA| TelaPrincipalResponsavel.html |
+|RF-018|	O sistema deve possuir um botão na tela inicial onde um Responsavel ou Aluno possa ver os cursos em que se está inscrito de forma rapida, por exemplo "Atalho para meus cursos".	|MEDIA| TelaPrincipalResponsavel.html |
+|RF-019|	O sistema deve possuir uma tela de gerenciamento de subscrição de cursos para o RESPONSAVEL pelo Aluno. Nessa tela é possivel Cancelar ou fazer alguma possivel alteração na subscrição	|ALTA| TelaPrincipalResponsavel.html |
+
 
 
 ## Descrição das estruturas:
@@ -84,3 +88,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | confirmar   | button           | ir para os cursos  | (sem ex)                    |
 | id do responsavel   | input          | indentificar quem e responsacel por aquele aluno | julio22                   |
 |possui necessidade especial, descreva:   | textarea        | indentificar necessidades de cada usuario  | auxilio de cadeiras de rodas                 |
+| Mostra os cursos disponiveis para podem ser adquiridos | Indentificar os cursos que cada aluno tem |                     |
+| Atalho para os Cursos Possuidos | Filtro de Cursos adquiridos |                             |
+| Gerenciamento de subcrição de curso | Cancelamento ou alteração |                        |

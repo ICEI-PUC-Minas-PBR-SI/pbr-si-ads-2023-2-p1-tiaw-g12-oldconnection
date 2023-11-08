@@ -91,4 +91,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Mostra os cursos disponiveis para podem ser adquiridos | Indentificar os cursos que cada aluno tem |                     |
 | Atalho para os Cursos Possuidos | Filtro de Cursos adquiridos |                             |
 | Gerenciamento de subcrição de curso | Cancelamento ou alteração |                        |
-| Usuário | input | identificação do usuário | jorge23 |
+| Usuário | input | identificação do usuário | jorge23                                            |
+| Senha | texto | senha que o usuário definir | 1234                                   |
+| Email | input | email de cadastro | joao@gmail.com                                      |
+| Nome | texto | Nome do usuário | Jorge                               |
+| Sobrenome | texto | Sobrenome do usuário | Silva                         |
+Data de nascimento | input | Nascimento do usuário| 01/01/2000                      |

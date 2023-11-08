@@ -96,4 +96,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Email | input | email de cadastro | joao@gmail.com                                      |
 | Nome | texto | Nome do usuário | Jorge                               |
 | Sobrenome | texto | Sobrenome do usuário | Silva                         |
-Data de nascimento | input | Nascimento do usuário| 01/01/2000                      |
+| Data de nascimento | input | Nascimento do usuário| 01/01/2000                      |
+| Sexo | input | Defino o sexo do usuário | Masculino, feminino e outros              |
+| Escolaridade | input | Informar a escolaridade | Ensino médio completo                                    |
+| Profissão | input | Informar a profissão do usuáriuo |  Mêcanico        |
+| Adicionar | button | Adicionar as informações | 
+| Telefone de Contato| input | informar o telefone | 3445-2312                |
+| Rua | input | Rua que deseja cadastrar | Rua das Flores                           |
+| Número | input | Informar o número da residência | 678              |
+| Complemento | input | Alguma informação adicional | Apartamento                 |
+| Bairro | input | Bairro que deseja cadastrar | Bairro Olaria                 |
+| Município | input | Cidade que deseja cadastrar | Belo Horizonte      |
+| CEP | input | CEP que deseja cadastrar | 35125356     |
+| Voltar | button | Volta para tela anterior | 
+| Criar | button | Cria o cadastro |

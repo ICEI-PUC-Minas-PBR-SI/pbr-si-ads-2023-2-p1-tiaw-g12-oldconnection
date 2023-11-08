@@ -39,7 +39,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-013|O sistema deve possuir uma barra de pesquisa de nomes de cursos ou palavras chave para facilitar encontrar postagens de interesse	|MEDIA| TelaPrincipalResponsavel.html |
 |RF-018|	O sistema deve possuir um botão na tela inicial onde um Responsavel ou Aluno possa ver os cursos em que se está inscrito de forma rapida, por exemplo "Atalho para meus cursos".	|MEDIA| TelaPrincipalResponsavel.html |
 |RF-019|	O sistema deve possuir uma tela de gerenciamento de subscrição de cursos para o RESPONSAVEL pelo Aluno. Nessa tela é possivel Cancelar ou fazer alguma possivel alteração na subscrição	|ALTA| TelaPrincipalResponsavel.html |
-RF-008	O sistema deve cadastrar um "Orientador" responsável pelo curso	|ALTA|
+|RF-008|	O sistema deve cadastrar um "Orientador" responsável pelo curso	|ALTA|
 CadastroOrientador.html |
 
 ## Descrição das estruturas:

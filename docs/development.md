@@ -88,7 +88,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | confirmar   | button           | ir para os cursos  | (sem ex)                    |
 | id do responsavel   | input          | indentificar quem e responsacel por aquele aluno | julio22                   |
 |possui necessidade especial, descreva:   | textarea        | indentificar necessidades de cada usuario  | auxilio de cadeiras de rodas                 |
-| Mostra os cursos disponiveis para podem ser adquiridos | Indentificar os cursos que cada aluno tem |  cursos pagos x gratuitos                   |
+| Mostra os cursos disponiveis para podem ser adquiridos | Indentificar os cursos que cada aluno tem |     ver cursos disponiveis             | cursos pagos x gratuitos   
 | Atalho para os Cursos Possuidos | Filtro de Cursos adquiridos |                             |
 | Gerenciamento de subcrição de curso | Cancelamento ou alteração |                        |
 | Usuário | input | identificação do usuário | jorge23                                            |

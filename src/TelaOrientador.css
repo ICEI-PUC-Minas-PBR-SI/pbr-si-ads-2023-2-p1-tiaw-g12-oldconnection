@@ -103,6 +103,8 @@ body {
 
 }
 
+
+
 #content {
    margin-top:80px; 
    margin-left:380px; 
@@ -147,7 +149,7 @@ body {
     
 }
 
-#meuCheckbox {
+#CheckboxCursosEncerrados, #CheckboxGratuitos, #CheckboxPagos,#CheckboxCursosAtivos{
     appearance: none;
     -webkit-appearance: none;
     width: 16px;
@@ -161,12 +163,12 @@ body {
 
 .BemVindo {
     text-align: center;
-    margin-top: -30px; /* Move o texto 20px para cima */
+    margin-top: 20px; 
   margin-left: -600px;
   }
   
   
-  #meuCheckbox:checked {
+  #CheckboxCursosAtivos:checked, #CheckboxCursosEncerrados:checked, #CheckboxGratuitos:checked,#CheckboxPagos:checked {
     background: url(imgs/VerificarIcon_resized.png) no-repeat center center, white;
     background-size: contain;
     
@@ -219,7 +221,7 @@ body {
 
 .quadradoMeusCursos{
     width: 900px;
-    height: 300px;
+    height: 500px;
     background: #7ACBD1;
     position: absolute;
     top: 65%;
@@ -246,7 +248,43 @@ body {
     cursor: pointer;
     transition-duration: 0.4s;
 }
+.curso-botoes2 button {
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.curso-botoes2 button:hover {
+    background-color: white; 
+    color: #007BFF;
+}
 
+.curso-botoes3 button {
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.curso-botoes3 button:hover {
+    background-color: white; 
+    color: #007BFF;
+}
 .curso-botoes1 button:hover {
     background-color: white; 
     color: #007BFF;
@@ -278,11 +316,26 @@ body {
     align-items: center; 
     gap: 20px; 
 }
+
+
 .curso1 {
     display: flex;
     align-items: center; 
     gap: 20px; 
 }
+
+.curso2 {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+
+.curso3 {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+
 
 .curso-info {
     flex-grow: 1; 
@@ -292,9 +345,17 @@ body {
     flex-grow: 1;
 }
 
+.curso-info2 {
+    flex-grow: 1;
+}
+
+.curso-info3 {
+    flex-grow: 1;
+}
+
 .quadrado {
     width: 1000px;
-    height: 600px;
+    height: 1000px;
     margin-top: 100px;
     background: linear-gradient(#539AC9, #6ABAD0);
     position: absolute;

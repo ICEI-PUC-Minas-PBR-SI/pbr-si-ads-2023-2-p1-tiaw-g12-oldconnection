@@ -1,0 +1,24 @@
+{
+    "usuarios":[
+        {
+            "usuario_id": 1,
+            "nome": "Administrador",
+            "sobrenome":"",
+            "idade": "",
+            "sexo": "",
+            "tipo_usuario":"",
+            "email": "admin@oldconnection.com.br",
+            "senha": "123456"
+        },
+        {
+            "usuario_id": 2,
+            "nome": "Jonas",
+            "sobrenome":"de Oliveira",
+            "idade": "35",
+            "sexo": "M",
+            "tipo_usuario": "",
+            "email": "jonas.oliveira@gmail.com",
+            "senha": "123456"
+        }
+    ]
+}

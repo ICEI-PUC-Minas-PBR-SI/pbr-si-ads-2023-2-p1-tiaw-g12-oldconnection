@@ -1,5 +1,6 @@
 'use strict'
 
+
 async function obterUsuarios()
 {
     const url = 'http://localhost:3000/usuarios/'
@@ -51,12 +52,15 @@ async function on_login()
             window.location.replace("./TelaOrientador.html")
         }
         
-        
-        
     }
     else
     {
-        alert('usuario ou senha incorretos')
+        alert('usuario e/ou senha incorretos')
     }
 
+}
+
+function btn_responsavel()
+{
+    window.location.replace("./CadastroResponsavel.html")
 }

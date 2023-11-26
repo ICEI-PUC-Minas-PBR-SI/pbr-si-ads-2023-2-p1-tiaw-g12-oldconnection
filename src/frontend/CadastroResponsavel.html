@@ -20,95 +20,84 @@
 
         <h1 class="texto1">Novo Responsável</h1>
 
-        <form>
             <div id="Login">
                 
-                <label for="fname">*Usuário</label><br>
-                <input type="text" id="fname" name="fname"><br>
+                <label for="email">*Email</label><br>
+                <input type="text" id="email" name="fname"><br>
 
+                <label for="confirmar_email">*Repita o email</label><br>
+                <input type="text" id="confirmar_email" name="fname"><br>
 
-                <label for="lname">*Senha</label><br>
-                <input type="text" id="lname" name="lname"><br>
+                <label for="senha">*Senha</label><br>
+                <input type="text" id="senha" name="lname"><br>
 
-
-                <label for="fname">*Repita sua senha</label><br>
-                <input type="text" id="fname" name="fname"><br>
-
-
-                <label for="fname">*Email</label><br>
-                <input type="text" id="fname" name="fname"><br>
-
-
-                <label for="fname">*Repita o email</label><br>
-                <input type="text" id="fname" name="fname"><br>
+                <label for="confirmar_senha">*Repita sua senha</label><br>
+                <input type="text" id="confirmar_senha" name="fname"><br>
            </div>
 
                 <div id = "Sobre">
                     <h2>Sobre Você</h2>
 
-                    <label for="fname">*Nome completo</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="nome_responsavel">*Nome completo</label><br>
+                    <input type="text" id="nome_responsavel" name="fname"><br>
 
 
-                    <label for="fname">*Data de nascimento</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="data_nascimento">*Data de nascimento</label><br>
+                    <input type="text" id="data_nascimento" name="fname"><br>
 
 
                     <p>*sexo</p>
-                    <input list="sexo" name="sexo">
-                    <datalist id="sexo">
-                        <option value="Feminino">
-                        <option value="Masculino">
-                        <option value="Outros">
-                    </datalist>
+                    
+                    <select id="sexo">
+                        <option value="F">Feminino</option>
+                        <option value="M">Masculino</option>
+                        <option value="O">Outro</option>
+                    </select>
 
                     <p>Escolaridade</p>
-                    <input list="Escolaridade" name="Escolaridade">
-                    <datalist id="Escolaridade">
-                        <option value="Ensino Médio">
-                        <option value="Ensino Médio completo">
-                        <option value="Ensino Superior">
-                        <option value="Ensino Superior Completo">
-                        <option value="Outros">
-                    </datalist><br>
+                    
+                    <select id="escolaridade">
+                        <option value="Ensino Médio">Ensino Médio</option>
+                        <option value="Ensino Médio completo">Ensino Médio completo</option>
+                        <option value="Ensino Superior">Ensino Superior</option>
+                        <option value="Ensino Superior Completo">Ensino Superior Completo</option>
+                        <option value="Outros"></option>
+                        </select><br>
 
-                    <label for="fname">Profissão</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="profissao">Profissão</label><br>
+                    <input type="text" id="profissao" name="fname"><br>
                 </div>
 
                 <div id="Endereço">
 
                     <h2>Endereço:</h2>
-                    <label for="fname">*Rua</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="logradouro">*Rua</label><br>
+                    <input type="text" id="logradouro" name="fname"><br>
 
-                    <label for="fname">*Numero</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="numero">*Numero</label><br>
+                    <input type="text" id="numero" name="fname"><br>
 
-                    <label for="fname">Complemento</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="complemento">Complemento</label><br>
+                    <input type="text" id="complemento" name="fname"><br>
 
-                    <label for="fname">*Bairro</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="bairro">*Bairro</label><br>
+                    <input type="text" id="bairro" name="fname"><br>
 
-                    <label for="fname">*Município</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="municipio">*Município</label><br>
+                    <input type="text" id="municipio" name="fname"><br>
 
-                    <label for="fname">CEP</label><br>
-                    <input type="text" id="fname" name="fname"><br>
+                    <label for="cep">CEP</label><br>
+                    <input type="text" id="cep" name="fname"><br>
 
                     <h3>* campos obrigatorios</h3>
 
-                    <input class="botao1" type="submit" value="Voltar">
-                    <input class="botao2" type="submit" value="Confimar">
+                    <input class="botao1" id="botao_voltar" type="submit" value="Voltar" onclick="btn_voltar()">
+                    <input class="botao2" id="botao_confirmar"  type="submit" value="Confimar" onclick="btn_salvar_dados_responsavel()">
 
                 </div>
                 
             </div>
 
-
-
-        </form>
 
 
 
@@ -126,7 +115,7 @@
 
 
 
-
+    <script src="js/cadastro_responsavel.js"></script>
 </body>
 
 </html>

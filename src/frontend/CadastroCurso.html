@@ -24,11 +24,6 @@
            <img class="play" src="imgs/playbutton.png" alt="">
         </button>
         <br>
-        <button class="icon-button" onclick="playSound('som2.mp3')">
-            <div><h4></h4><a href="Login.html"><img class="home-icon" src="imgs/register.png" alt="Ícone 2"></a></div> 
-            <img class="play" src="imgs/playbutton.png" alt="">
-        </button>
-        <br>
         <button class="icon-button" onclick="playSound('som3.mp3')">
             <div><h4></h4> <a href=""><img class="home-icon" src="imgs/icone sair-PhotoRoom.png-PhotoRoom.png" alt="Ícone 3"></a></div> 
             <img class="play" src="imgs/playbutton.png" alt="">
@@ -67,8 +62,8 @@
                         </div>
                         <span></span>
                         <div class="component">
-                            <label for="data_inicio">Início das inscrições:</label>
-                            <input type="date" id="inicio_inscricoes" name="inicio_inscricoes">
+                            <label for="data_fim">Início das inscrições:</label>
+                            <input type="date" id="fim_inscricoes" name="fim_inscricoes">
                             
                         </div>
                     </div>
@@ -88,14 +83,14 @@
                     </div>
 
                     <div class="component">
-                        <button>Selecionar imagens</button>
+                        <button id="selecionar_imagens">Selecionar imagens</button>
                         
                     </div>
                     <span></span>
                     <div class="horizontal-layout">
                         <p>Selecione uma etiqueta:</p>
                         <div class="component">
-                            <select>
+                            <select id="curso_etiqueta">
                                 <option>Indefinido</option>
                                 <option>Ensino</option>
                                 <option>Artesanato</option>
@@ -107,7 +102,7 @@
                             
                         </div>
                         <div class="component">
-                            <button>Adicionar</button>
+                            <button id="adicionar_etiqueta">Adicionar</button>
                             
                         </div>
                     </div>
@@ -120,14 +115,14 @@
                     <h3>Endereço do local do curso</h3>
                     <div class="horizontal-layout">
                         <div class="component">
-                            <label for="rua_nome">Nome da rua:</label>
-                            <input type="text" id="rua_nome" name="rua_nome">
+                            <label for="logradouro">Nome da rua:</label>
+                            <input type="text" id="logradouro" name="logradouro">
                             
                         </div>
                         <span></span>
                         <div class="component">
-                            <label for="rua_numero">Número:</label>
-                            <input type="text" id="rua_numero" name="rua_numero">
+                            <label for="numero">Número:</label>
+                            <input type="text" id="numero" name="numero">
                         </div>
                     </div>
                     
@@ -169,10 +164,10 @@
                     <div class="register-footer">
                         <div class="horizontal-layout">
                             <div class="component">
-                                <button>Cancelar</button>
+                                <button onclick="btn_voltar()">Cancelar</button>
                             </div>
                             <div class="component">
-                                <button>Salvar</button>
+                                <button onclick="btn_salvar_dados_curso()">Salvar</button>
                             </div>
                         </footer>
                     </div>
@@ -197,6 +192,6 @@
         <img src="imgs/whatsapplogo.png.webp" id="whatsapp-button">
     </a>
 
-   
+    <script src="js/cadastro_curso.js"></script>
 </body>
 </html>

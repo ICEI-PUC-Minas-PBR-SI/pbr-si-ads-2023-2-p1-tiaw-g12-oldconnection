@@ -93,6 +93,41 @@
       "cep": "",
       "id": 7
     }
+  ],
+  "cursos": [
+    {
+      "orientador_id": 0,
+      "nome_curso": "matematica",
+      "descricao_curso": "",
+      "inicio_inscricoes": "",
+      "fim_inscricoes": "",
+      "quantidade_vagas": "",
+      "tel_contato": "",
+      "curso_etiqueta": "Indefinido",
+      "video_apresentacao": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "cep": "",
+      "id": 1
+    },
+    {
+      "orientador_id": 0,
+      "nome_curso": "portugues",
+      "descricao_curso": "",
+      "inicio_inscricoes": "",
+      "fim_inscricoes": "",
+      "quantidade_vagas": "",
+      "tel_contato": "",
+      "curso_etiqueta": "Indefinido",
+      "video_apresentacao": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "cep": "",
+      "id": 2
+    }
   ]
-  
 }

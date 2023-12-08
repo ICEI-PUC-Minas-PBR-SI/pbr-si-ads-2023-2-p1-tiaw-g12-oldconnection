@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "old-connection-api-vercel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.4"
-  }
+  },
+  "devDependencies": {}
+
 }

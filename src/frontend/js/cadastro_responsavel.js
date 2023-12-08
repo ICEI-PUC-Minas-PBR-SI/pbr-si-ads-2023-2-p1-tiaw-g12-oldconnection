@@ -59,7 +59,7 @@ async function btn_salvar_dados_responsavel()
 
 async function salvar_dados_responsavel(responsavel)
 {
-    const url = 'http://localhost:3000/usuarios/'
+    const url = 'https://oldconnection-api-vercel.vercel.app/usuarios/'
 
 
     const options = {
@@ -80,10 +80,10 @@ async function salvar_dados_responsavel(responsavel)
         alert('erro ao salvar o responsavel. Tente novamente')
     }
 
-    window.location.replace("./Login.html")
+    window.location.replace("./index.html")
 }
 
 function btn_voltar()
 {
-    window.location.replace("./Login.html")
+    window.location.replace("./index.html")
 }

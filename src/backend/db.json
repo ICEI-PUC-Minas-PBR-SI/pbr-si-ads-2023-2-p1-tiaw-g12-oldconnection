@@ -1,0 +1,98 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Administrador",
+      "sobrenome": "",
+      "idade": "",
+      "sexo": "",
+      "tipo_usuario": 1,
+      "email": "teste_admin",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "nome": "Jonas",
+      "sobrenome": "de Oliveira",
+      "idade": "65",
+      "sexo": "M",
+      "tipo_usuario": 2,
+      "email": "teste_aluno",
+      "senha": "123"
+    },
+    {
+      "id": 3,
+      "nome": "Maria",
+      "sobrenome": "de Oliveira",
+      "idade": "35",
+      "sexo": "F",
+      "tipo_usuario": 3,
+      "email": "teste_responsavel",
+      "senha": "123"
+    },
+    {
+      "id": 4,
+      "nome": "Juliana",
+      "sobrenome": "dos Santos",
+      "idade": "27",
+      "sexo": "F",
+      "tipo_usuario": 4,
+      "email": "teste_orientador",
+      "senha": "123"
+    },
+    {
+      "tipo_usuario": 2,
+      "email": "well",
+      "senha": "123",
+      "nome_responsavel": "Wellington de sousa",
+      "data_nascimento": "1810",
+      "sexo": "M",
+      "escolaridade": "Ensino Superior",
+      "profissao": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "cep": "",
+      "id": 5
+    },
+    {
+      "tipo_usuario": 4,
+      "email": "",
+      "senha": "",
+      "data_nascimento": "",
+      "sexo": "",
+      "escolaridade": "Ensino Superior Completo",
+      "profissao": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "cep": "",
+      "id": 6
+    },
+    {
+      "tipo_usuario": 4,
+      "nome": "",
+      "sobrenome": "",
+      "email": "jonas",
+      "senha": "123",
+      "data_nascimento": "",
+      "sexo": "",
+      "escolaridade": "Ensino Superior Completo",
+      "profissao": "",
+      "area_interesse": "",
+      "telefone": "",
+      "logradouro": "pedro leopold",
+      "numero": "12",
+      "complemento": "",
+      "bairro": "x",
+      "municipio": "",
+      "cep": "",
+      "id": 7
+    }
+  ]
+  
+}

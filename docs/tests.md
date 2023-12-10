@@ -28,7 +28,8 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **LOG01 - Acessar conta** 
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informa nome de usuário e senha
-                    2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+                  | 2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+:--------------:  | ------------
                   
                         
                   

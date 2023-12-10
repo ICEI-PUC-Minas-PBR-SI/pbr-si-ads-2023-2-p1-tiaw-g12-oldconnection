@@ -92,6 +92,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | N/A.
 **Resultado obtido** | Falha.
 
+**Caso de Teste** | **TDR - Tempo de Resposta**
+ :--------------: | ------------
+**Procedimento**  | 1)  O usuario clica para fazer qualquer requisição e o tempo de resposta e de no maximo de três segundos.<br>  
+**Requisitos associados** | RNF-002
+**Resultado esperado** | Deve processar requisições do usuário em no máximo 3s
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

@@ -100,6 +100,22 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | N/A.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **TEC - HTML, CSS e Javascript**
+ :--------------: | ------------
+**Procedimento**  | 1)  Desenvolvedores devem usar HTML, CSS e Javascript.<br>  
+**Requisitos associados** | RNF-003
+**Resultado esperado** | N/A
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **INT- O sistema dever simples e intuitivo**
+ :--------------: | ------------
+**Procedimento**  | 1)  O sistema dever simples e intuitivo devido ao publico alvo não ter em principio um grande dominio sobre a tecnologia.<br>  
+**Requisitos associados** | RNF-005
+**Resultado esperado** | N/A
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

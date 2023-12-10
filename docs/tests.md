@@ -28,7 +28,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **LOG01 - Acessar conta**
  :--------------: | ------------
 **Procedimento**  | 1)  Usuário informa nome de usuário e senha.<br>  2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
-**Requisitos associados** | RF-028
+**Requisitos associados** | RF-028, RF-012
 **Resultado esperado** | Acessar pagina principal do logado no usuario informado.
 **Dados de entrada** | Inserção de dados válidos na tela de login.
 **Resultado obtido** | Sucesso.

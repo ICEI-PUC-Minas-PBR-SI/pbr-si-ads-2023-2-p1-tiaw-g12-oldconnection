@@ -84,6 +84,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Resultado obtido** | Falha.
 
 
+**Caso de Teste** | **RSP - Responsividade Mobile**
+ :--------------: | ------------
+**Procedimento**  | 1)  O orientador clica no  botão editar onde ele pode adicionar ou remover alunos, bem como, alterar.<br>  
+**Requisitos associados** | RNF-001
+**Resultado esperado** | Adaptar com todos tipos telas
+**Dados de entrada** | N/A.
+**Resultado obtido** | Falha.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

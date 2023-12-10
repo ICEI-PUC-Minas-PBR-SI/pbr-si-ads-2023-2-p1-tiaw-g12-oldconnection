@@ -94,7 +94,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **TDR - Tempo de Resposta**
  :--------------: | ------------
-**Procedimento**  | 1)  O usuario clica para fazer qualquer requisição e o tempo de resposta e de no maximo de três segundos.<br>  
+**Procedimento**  | 1)  O usuario clica para fazer qualquer requisição e o tempo de resposta e de no maximo  três segundos.<br>  
 **Requisitos associados** | RNF-002
 **Resultado esperado** | Deve processar requisições do usuário em no máximo 3s
 **Dados de entrada** | N/A.

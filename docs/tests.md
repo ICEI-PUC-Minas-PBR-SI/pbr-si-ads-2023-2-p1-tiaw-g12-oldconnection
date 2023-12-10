@@ -29,6 +29,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informa nome de usuário e senha
                   | 2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+                         ------------
 **Requisitos associados** | RF-001
 **Resultado esperado** | Ir para tela principal
 **Dados de entrada** | Inserção de dados válidos no login

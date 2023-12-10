@@ -36,7 +36,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT01 - Criar conta parte 1**
  :--------------: | ------------
 **Procedimento**  | 1) Orientador informa nome, sobrenome, email, senha, data de nascimento, sexo, escolaridade, profisão, aréa de interesse, telefone de contato, rua, número bairro, complemento, cep e município clica no botão "Criar".<br>  2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam. Requisitos associados RF-001 Resultado esperado Prosseguir para a parte 2 do cadastro. Dados de entrada Inserção de dados válidos no formulário de cadastro.
-**Requisitos associados** | RF-008
+**Requisitos associados** | RF-008, RF-001, RF-002
 **Resultado esperado** | Criação de cadastro
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Falhou.

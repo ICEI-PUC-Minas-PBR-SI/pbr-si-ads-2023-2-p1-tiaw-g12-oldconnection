@@ -80,6 +80,10 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisitos Associados | RF-028 - O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso. RF-030 - Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1yQfAf7T3WdKlJ8lMjF1yZSZT2fu9a14T/view?usp=sharing | 
 
+|*Caso de Teste*                                 |*WTS-01 - Meio de Contato *                                         |
+|---|---|
+|Requisito Associado | RF-029 - O sistema devev possuir um meio de contato para o aluno atráves da tela de login|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1P3QQMTHd8ZdhhFdoATCGD1KrZ93pl4aL/view?usp=sharing| 
 
 ## Avaliação dos Testes de Software
 

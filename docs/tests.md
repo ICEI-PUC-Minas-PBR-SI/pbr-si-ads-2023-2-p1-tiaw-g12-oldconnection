@@ -50,6 +50,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Falhou.
 
+**Caso de Teste** | **CTC01 - Cadastro de Curso**
+ :--------------: | ------------
+**Procedimento**  | 1) Orientador informa nome do curso, descrição, Início das inscrições, fim das inscrições, botão de adiconar imagens (Etiquetas), rua, número, bairro, complemento, cep e município clica no botão "Salvar".<br>  2) A aplicação cadastra o curso com todos os dados e me mostra para os usuarios. Requisitos associados RF-001 Resultado esperado Prosseguir para a parte 2 do cadastro. Dados de entrada Inserção de dados válidos no formulário de cadastro.
+**Requisitos associados** | RF-009
+**Resultado esperado** | Criação de Curso
+**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Resultado obtido** | Falhou.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

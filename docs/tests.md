@@ -58,6 +58,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Falhou.
 
+**Caso de Teste** | **WTS - Meio de Contato**
+ :--------------: | ------------
+**Procedimento**  | 1)  Usuário Clica no botão do WhatsApp e direcionado para o número de contato.<br>  
+**Requisitos associados** | RF-029
+**Resultado esperado** | Acessar pagina para entrar em tela de contato
+**Dados de entrada** | N/D
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

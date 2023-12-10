@@ -66,6 +66,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | N/D
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **TGS - Tela de Subscrição**
+ :--------------: | ------------
+**Procedimento**  | 1)  O responsável clica no botão editar ou cancelar.<br>  
+**Requisitos associados** | RF-019
+**Resultado esperado** | A edição salva com sucesso ou a edição excluída com sucesso
+**Dados de entrada** | Alterações de cadastro 
+**Resultado obtido** | Falha.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

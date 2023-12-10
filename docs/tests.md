@@ -53,7 +53,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CTC01 - Cadastro de Curso**
  :--------------: | ------------
 **Procedimento**  | 1) Orientador informa nome do curso, descrição, Início das inscrições, fim das inscrições, botão de adiconar imagens (Etiquetas), rua, número, bairro, complemento, cep e município clica no botão "Salvar".<br>  2) A aplicação cadastra o curso com todos os dados e me mostra para os usuarios. Requisitos associados RF-001 Resultado esperado Prosseguir para a parte 2 do cadastro. Dados de entrada Inserção de dados válidos no formulário de cadastro.
-**Requisitos associados** | RF-009
+**Requisitos associados** | RF-009, RF-024, RF-025
 **Resultado esperado** | Criação de Curso
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Falhou.
@@ -78,7 +78,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **TEGE - Tela de Gerenciamento**
  :--------------: | ------------
 **Procedimento**  | 1)  O orientador clica no  botão editar onde ele pode adicionar ou remover alunos, bem como, alterar.<br>  
-**Requisitos associados** | RF-006
+**Requisitos associados** | RF-006, RF-019, RF-023
 **Resultado esperado** | A edição salva com sucesso ou a edição excluída com sucesso
 **Dados de entrada** | Alterações de cadastro ou remoção de aluno.
 **Resultado obtido** | Falha.

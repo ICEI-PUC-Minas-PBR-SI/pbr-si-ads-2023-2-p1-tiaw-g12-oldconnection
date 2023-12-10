@@ -57,7 +57,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1MZXwK6rsV8fgX7lwYmuBd_Z5O-uYEvRU/view?usp=sharing| 
 
 |*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|

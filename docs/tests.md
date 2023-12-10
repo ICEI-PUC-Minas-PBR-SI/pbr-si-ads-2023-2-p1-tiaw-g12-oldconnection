@@ -74,6 +74,16 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Alterações de cadastro 
 **Resultado obtido** | Falha.
 
+
+**Caso de Teste** | **TEGE - Tela de Gerenciamento**
+ :--------------: | ------------
+**Procedimento**  | 1)  O orientador clica no  botão editar onde ele pode adicionar ou remover alunos, bem como, alterar.<br>  
+**Requisitos associados** | RF-006
+**Resultado esperado** | A edição salva com sucesso ou a edição excluída com sucesso
+**Dados de entrada** | Alterações de cadastro ou remoção de aluno.
+**Resultado obtido** | Falha.
+
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

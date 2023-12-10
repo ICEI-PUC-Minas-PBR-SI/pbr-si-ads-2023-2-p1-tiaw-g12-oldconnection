@@ -116,6 +116,30 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | N/A.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **LTS- Letras Grandes**
+ :--------------: | ------------
+**Procedimento**  | 1)  O As letras do sistema devem ser grandes para facilitar a leitura.<br>  
+**Requisitos associados** | RNF-006
+**Resultado esperado** | N/A
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **RVS- Recursos visuais**
+ :--------------: | ------------
+**Procedimento**  | 1)  Sempre que possivel, o sistema deve possuir mais recursos visuais que escritos para facilitar o entendimento.<br>  
+**Requisitos associados** | RNF-007
+**Resultado esperado** | N/A
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **SP- Login Simplificado**
+ :--------------: | ------------
+**Procedimento**  | 1) O sistema de login pode ser simplicado com o recurso de "Permanecer conectado".<br>  
+**Requisitos associados** | RNF-008
+**Resultado esperado** | N/A
+**Dados de entrada** | N/A.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.

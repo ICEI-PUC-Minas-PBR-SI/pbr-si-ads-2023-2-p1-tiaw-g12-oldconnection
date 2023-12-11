@@ -24,6 +24,9 @@ No projeto Old Connetion, minha contribuição foi:
 - Desenvolvi os vídeos de explicação sobre os requisitos presentes.
 - Realizei testes de resposta do site.
 
+- *Pedro Fonseca*
+- Deixar paginas dinâmicas(incompleto)
+
 
   
   

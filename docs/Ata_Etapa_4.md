@@ -7,5 +7,5 @@ No projeto Old Connetion, minha contribuição foi:
 No projeto Old Connetion, minha contribuição foi:
 - Fiz emplementação do bootstrap para poder deixar as telas responsivas e com um louyout novo
 - Implementei o bootstrap nas telas
-
+- Ajudei em códigos das telas que utilizam JavaScript
   

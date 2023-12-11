@@ -13,6 +13,9 @@ No projeto Old Connetion, minha contribuição foi:
  *Luan luciano Oliveira Mendes*
 No projeto Old Connetion, minha contribuição foi:
 - Ajudei nos testes de software
+- Ajudei a desenvolver os vídeos de explicação sobre os requisitos presentes.
+- Ajudei a realizar os testes de resposta do site.
+
 - Desenvolvi os videos tutoriais para a plataforma
 
   *Pedro Camilo Nunes de Souza*

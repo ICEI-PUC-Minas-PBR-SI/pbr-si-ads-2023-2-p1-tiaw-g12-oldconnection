@@ -5,6 +5,7 @@ No projeto Old Connetion, minha contribuição foi:
 
 *Victor Gomes de Miranda*
 No projeto Old Connetion, minha contribuição foi:
--
+- Fiz emplementação do bootstrap para poder deixar as telas responsivas e com um louyout novo
+- Implementei o bootstrap nas telas
 
   

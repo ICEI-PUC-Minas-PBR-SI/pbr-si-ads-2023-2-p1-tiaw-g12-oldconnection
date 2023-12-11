@@ -15,6 +15,7 @@ No projeto Old Connetion, minha contribuição foi:
 - Ajudei nos testes de software
 - Ajudei a desenvolver os vídeos de explicação sobre os requisitos presentes.
 - Ajudei a realizar os testes de resposta do site.
+- Ajudei a upar o site no vercel
 
 - Desenvolvi os videos tutoriais para a plataforma
 

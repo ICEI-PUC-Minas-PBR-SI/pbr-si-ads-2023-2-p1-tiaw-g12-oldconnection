@@ -9,17 +9,32 @@ body {
     background-color: #ecebeb;
 }
 
-#logo {
-    position: absolute;
-    left: 40px;
-    top: 10px;
-    z-index: 9999;
-}
 
-#logo img {
+.navbar{
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+  }
+  
+  .nav-Link{
+    position: absolute;
+    line-height: 20px;
+    
+  }
+  .nav-item a:hover{
+    background-color: rgb(187, 187, 187);
+  }
+  .Titulo-Pagina{
+    margin-top: 20px;
+    text-align: center;
+    margin: 60px;
+  
+  }
+  .Logo {
+   width: 100px;
+  }
+  
+  .Logo{
     border-radius: 25%;
-    width: 100px;
-}
+  }
 
 #navbar {
     font-size: 25px;
@@ -172,11 +187,11 @@ input[type=submit] {
     cursor: pointer;
 }
 .quadrado {
-    width: 1000px;
-    height: 1290px;
+    width: 500px;
+    height: 1530px;
     background: linear-gradient(#539AC9, #6ABAD0);
     position: absolute;
-    top: 95%;
+    margin-top: 800px;
     left: 54%;
     transform: translate(-50%, -50%);
     padding: 20px;

@@ -30,78 +30,58 @@ body {
     
 }
 
-#logo img {
-    border-radius: 25%;
-    width: 100px;
-}
-
-#navbar {
-    font-size: 25px;
+.body{
+    background-color:#ecebeb;
+  }
+  .navbar{
     background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
-    padding: 0;
-    text-align: center;
-    position: relative;
-    z-index: 2;
-   
-}
-
-#navbar img{
-    width: 245px;
-    border-radius: 25%;
-    float: top;
-}
-
-#sidebar {
-    position: relative;
-    width: 160px;
-    float: left;
-    margin-top: 129px;
-    height: 160vh;
-    z-index: 1;
-   
+  }
   
-
-    background: linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
-}
-
-.icon-button {
+  .nav-Link{
+    position: absolute;
+    line-height: 20px;
     
-    background: none;
-    border: none;
-    cursor: pointer;
-}
-
-.icon-button {
-    margin-left:30px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-   
-}
-
-.home-icon {
-   width:50px; 
-   position:static; 
-}
-
-.play {
-   width:30px; 
-   height:auto; 
-   margin-top: 12px;
-   margin-left: 12px;
-   position:static; 
-   
-}
-.VIDEO {
-    position:fixed;  
-    margin-top: 100px;
-    width:150px; 
-    bottom: 0;
+  }
+  .nav-item a:hover{
+    background-color: rgb(187, 187, 187);
+  }
+  .Titulo-Pagina{
+    margin-top: 20px;
+    text-align: center;
+    margin: 60px;
+  
+  }
+  .Logo {
+   width: 100px;
+  }
+  
+  .Logo{
+    border-radius: 25%;
+  }
+  
+  #Icons{
+    font-weight: bolder;
+    float: left;
+    margin: 5px;
+  }
+  
+  #whatsapp-button {
+  
+    position:fixed; 
+    margin-bottom: 20px;
+    margin-right: 2px;
+    right:10px; 
+    bottom:10px; 
+    width:65px; 
     height:auto; 
-
-}
+    opacity: 0.5;
+    transition: opacity 0.2s;
+  }
+  
+  #whatsapp-button:hover{
+  
+    opacity: 1;
+  }
 
 
 
@@ -121,6 +101,8 @@ body {
    width:70px; 
    height:auto; 
 }
+
+
 
 
 .container {
@@ -354,12 +336,13 @@ body {
 }
 
 .quadrado {
+    
     width: 1000px;
     height: 1000px;
     margin-top: 100px;
     background: linear-gradient(#539AC9, #6ABAD0);
     position: absolute;
-    top: 60%;
+    margin-top: 400px;
     left: 54%;
     transform: translate(-50%, -50%);
     padding: 20px;

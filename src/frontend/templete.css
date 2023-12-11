@@ -1,0 +1,52 @@
+.body{
+    background-color:#ecebeb;
+  }
+  .navbar{
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+  }
+  
+  .nav-Link{
+    position: absolute;
+    line-height: 20px;
+    
+  }
+  .nav-item a:hover{
+    background-color: rgb(187, 187, 187);
+  }
+  .Titulo-Pagina{
+    margin-top: 20px;
+    text-align: center;
+    margin: 60px;
+  
+  }
+  .Logo {
+   width: 100px;
+  }
+  
+  .Logo{
+    border-radius: 25%;
+  }
+  
+  #Icons{
+    font-weight: bolder;
+    float: left;
+    margin: 5px;
+  }
+  
+  #whatsapp-button {
+  
+    position:fixed; 
+    margin-bottom: 20px;
+    margin-right: 2px;
+    right:10px; 
+    bottom:10px; 
+    width:65px; 
+    height:auto; 
+    opacity: 0.5;
+    transition: opacity 0.2s;
+  }
+  
+  #whatsapp-button:hover{
+  
+    opacity: 1;
+  }

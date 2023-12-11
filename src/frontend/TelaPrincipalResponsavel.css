@@ -4,26 +4,42 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: Ari;
-    background-color: #ecebeb;
-}
-
-#logo {
+body{
+    background-color:#ecebeb;
+  }
+  .navbar{
+    background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+  }
+  
+  .nav-Link{
     position: absolute;
-    left: 40px;
-    top: 10px;
-    z-index: 99999;
-}
+    line-height: 20px;
+    
+  }
+  .nav-item a:hover{
+    background-color: rgb(187, 187, 187);
+  }
 
-#logo img {
-    border-radius: 25%;
+.Logo {
     width: 100px;
-}
-article{
-    padding-left: 30px;
-    padding-top: 20px;
-}
+   }
+   
+   .Logo{
+     border-radius: 25%;
+   }
+   #Cadastre{
+    background-color: #0094B2;
+    color: white;
+    position: absolute;
+    right: 0;
+    margin-right: 50px;
+    width: 180px;
+    height: 40px;
+
+    border-radius: 20px;
+
+    cursor: pointer;
+   }
 .course-container{
     grid-column-start: 2;
     grid-column-end: 3;
@@ -149,36 +165,6 @@ article{
     background: linear-gradient(#0095B5,#0094B2,#19ADCB,#32C6E4);
 }
 
-.icon-button {
-    
-    background: none;
-    border: none;
-    cursor: pointer;
-}
-
-.icon-button {
-    margin-left:30px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-   
-}
-
-.home-icon {
-   width:50px; 
-   position:static; 
-}
-
-.play {
-   width:30px; 
-   height:auto; 
-   margin-top: 12px;
-   margin-left: 12px;
-   position:static; 
-   
-}
 .VIDEO {
     position:fixed;  
     margin-top: 180px;
@@ -190,8 +176,9 @@ article{
 }
 
 #content {
-   margin-top:80px; 
-   margin-left:380px; 
+   margin-top:60px; 
+   margin-left: 20px;
+   margin-right: 20px;
    display:block; 
 }
 
@@ -260,45 +247,8 @@ article{
         flex-direction : column ;
     }
 
-    
-
-    #navbar-mobile {
-        display: block;
-    }
-
-    #navbar {
-        display: none;
-    }
 
 
-    /* esconde o logo quando em uma tela pequena. */
-    #logo img {
-        width : 0% ;
-        display : block ;
-        margin-left : auto ;
-        margin-right : auto ;
-    }
-
-    /* ajusta a largura da imagem da navbar para 50% e centraliza-a quando em uma tela pequena. */
-    #navbar img{
-        width : 50% ;
-        display : block ;
-        margin-left : auto ;
-        margin-right : auto ;
-        order: 0;
-        
-    }
-
-    /* ajusta o layout da barra lateral para ser horizontal e centraliza seus itens quando em uma tela pequena. */
-    #sidebar {
-        position : static ;
-        width : 100% ;
-        height : auto ;
-        display : flex ;
-        flex-direction : row ;
-        justify-content : space-around ;
-        align-items: center;
-    }
 
     /* ajusta o tamanho do ícone de casa para 30% e remove a margem superior quando em uma tela pequena. */
     .home-icon {
@@ -326,11 +276,7 @@ article{
     }
 
     /* adiciona margens ao conteúdo principal */
-    #content {
-       margin-top : 20px ; 
-       margin-left : auto ; 
-       margin-right : auto ;  
-    }
+    
 
     /* ajusta a largura das imagens na grade para ocupar toda a largura */
     #grid img {

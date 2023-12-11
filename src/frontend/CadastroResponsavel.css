@@ -1,10 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-    
-}
+
 body {
     font-family: Arial;
     background-color: #ecebeb;
@@ -16,28 +10,32 @@ h1{
     margin-top:10px ;
     text-decoration: none;
 }
-#logo {
-    position: absolute;
-    left: 40px;
-    top: 10px;
-}
-#logo img {
-    border-radius: 25%;
-    width: 100px;
-}
-#logo2 {
-    font-size: 25px;
+.navbar{
     background: linear-gradient(to right,#EEC400, #FFD820, #FFF139);
-    padding: 0;
-    text-align: center;
+  }
+  
+  .nav-Link{
+    position: absolute;
+    line-height: 20px;
     
-}
-#logo2 img{
-    width: 245px;
+  }
+  .nav-item a:hover{
+    background-color: rgb(187, 187, 187);
+  }
+  .Titulo-Pagina{
+    margin-top: 20px;
+    text-align: center;
+    margin: 60px;
+  
+  }
+  .Logo {
+   width: 100px;
+  }
+  
+  .Logo{
     border-radius: 25%;
-    float: top;
-
-}
+  }
+  
 input{
     text-align: left;
     margin-top: 5px;

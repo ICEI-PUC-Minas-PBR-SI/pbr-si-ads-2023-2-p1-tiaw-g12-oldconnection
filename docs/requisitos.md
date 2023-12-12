@@ -14,9 +14,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| Na tela principal do responsavel deve aparecer todos os cursos disponivies de todos os orientadores  | ALTA | |
 |RF-006| Na tela principal de aluno deve aparecer todos os cursos que ele está cadastrado | ALTA | |
 |RF-007| Na tela principal do orientador deve aparecer todos os cursos que ele criou  | ALTA | |
-|RF-008| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso.    | ALTA | |
-|RF-009| Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas.    | ALTA | |
-|RF-010| Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.   | ALTA | |
+|RF-008| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso. Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas. Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.   | ALTA | |
 
 
 

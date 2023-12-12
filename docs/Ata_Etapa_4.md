@@ -29,5 +29,10 @@ No projeto Old Connetion, minha contribuição foi:
 - Deixar paginas dinâmicas(incompleto)
 
 
+- *Wellington de Sousa*
+- Ajudei na implentação do Json Server
+- Ajudei no link das telas de cadastro com o Json Server
+- Aludei na publicação do sistema no vercel
+- Ajudei na implentação da tela principal de Aluno com conteudo dinamico
   
   

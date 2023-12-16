@@ -1,5 +1,5 @@
 
-#Bom dia professores, 
+###Bom dia professores, 
 
 Peço que avaliem a minha entrega separadamente do grupo. O Projeto é o mesmo mas na reta final optamos por corrigir a aplicação de maneira diferente.
 
@@ -10,7 +10,7 @@ Quando o responsavel clica no botão de inscrever ele automaticamente inscreve o
 
 Corrigi o maximo de coisas que consegui no pouco tempo que tive do projeto:
 
-*fiz validações de cadastro para todos os campos das telas de cadadastro de orientador, cadastro de responsavel e cadastro de curso
+* fiz validações de cadastro para todos os campos das telas de cadadastro de orientador, cadastro de responsavel e cadastro de curso
 * padronizei os layouts para todas as telas
 * corrigi o esquema de cores da aplicação
 * implementei a api do vercel totalmente funcional: salva dados de cadastro do orientador, responsavel e cursos. E tambem dados da matricula
@@ -20,6 +20,11 @@ daquele login registrado no banco.
 
 
 link do vercel: https://oldconnection.vercel.app/
+
+usuarios válidos já inseridos no sistema para teste:
+
+usuario:responsavel@gmail.com      senha: 123
+usuario: orientador@gmail.com       senha: 123
 
 
 

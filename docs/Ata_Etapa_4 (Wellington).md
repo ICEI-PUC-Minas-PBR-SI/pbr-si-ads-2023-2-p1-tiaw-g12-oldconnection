@@ -23,8 +23,8 @@ link do vercel: https://oldconnection.vercel.app/
 
 usuarios válidos já inseridos no sistema para teste:
 
-usuario:responsavel@gmail.com      senha: 123
-usuario: orientador@gmail.com       senha: 123
+* usuario:responsavel@gmail.com      senha: 123
+* usuario: orientador@gmail.com       senha: 123
 
 
 

@@ -6,18 +6,17 @@ Peço que avaliem a minha entrega separadamente do grupo. O Projeto é o mesmo m
 
 Simpliquei o projeto para corrigi-lo da melhor forma possivel. Agora o sistema considera que o aluno não é capaz de mexer no sistema 
 e quem mexe é apenas o responsavel. Quando o cadastro do responsavel é feito já é feito o cadastro de um aluno sob a tutela daquele responsavel.
-Quando o responsavel clica no botão de inscrever ele automaticamente inscreve o aluno dele no curso ofertado.
+Quando o responsavel clica no botão  "inscrever" ele automaticamente inscreve o aluno dele no curso ofertado, ou seja, o responsavel faz todo o gerenciamento da aplicação e de cursos pelo aluno que ele ajuda.
 
-Corrigi o maximo de coisas que consegui no pouco tempo que tive do projeto:
+Corrigi o maximo de coisas que consegui no pouco tempo que tiver para fazer as correções:
 
 * fiz validações de cadastro para todos os campos das telas de cadadastro de orientador, cadastro de responsavel e cadastro de curso
 * padronizei os layouts para todas as telas
 * corrigi o esquema de cores da aplicação
-* implementei a api do vercel totalmente funcional: salva dados de cadastro do orientador, responsavel e cursos. E tambem dados da matricula
-   quando o responsavel clica no botao de inscrever um registro de matricula é gerado e salvo em db.json
-* A tela inicial do responsavel é dinamica, carrega os dados de cursos cadastrados no sistema. E saudação inicial dada busca o nome do usuario daquele login registrado no banco.
-* A tela inicial do orientador é dinamica, carrega os dados de todos os cursos que ele inseriu no sistema.
-* Os botões de audio agora funcionam e fornem ajuda em voz quando clicados.
+* implementei a api do vercel totalmente funcional: salva dados de cadastro do orientador, responsavel e cursos. E tambem dados da matricula quando o responsavel clica no botao "inscrever" um registro de matricula é gerado e salvo em db.json
+* A tela inicial do responsavel é dinamica, carrega os dados de cursos cadastrados no sistema e a saudação inicial busca o nome do usuario daquele login registrado no banco que é salvo na sessionStorage.
+* A tela inicial do orientador é dinamica, carrega os dados de todos os cursos que ele registrou no sistema.
+* Os botões de audio agora funcionam e fornecem ajuda em voz quando clicados informando o que aquele botão faz.
 
 
 link do vercel: https://oldconnection.vercel.app/
@@ -32,7 +31,7 @@ usuarios válidos já inseridos no sistema para teste:
 
 Se logarem com orientadores diferentes verão que os cursos cadastrados que aparecem para eles são diferentes. São carregados apenas os cursos que cada um criou.
 
-* Criando as telas, testando as funções com usuarios diferentes automaticamente fiz muitos testes para ver se estava tudo funcionando.
+* Criando as telas, testei as funções com usuarios diferentes automaticamente fiz muitos testes para ver se estava tudo funcionando.
 
 
 

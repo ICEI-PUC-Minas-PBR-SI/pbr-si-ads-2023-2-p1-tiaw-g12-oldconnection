@@ -1,5 +1,5 @@
 
-###Bom dia professores, 
+### Bom dia professores, 
 
 Peço que avaliem a minha entrega separadamente do grupo. O Projeto é o mesmo mas na reta final optamos por corrigir a aplicação de maneira diferente.
 
@@ -15,8 +15,9 @@ Corrigi o maximo de coisas que consegui no pouco tempo que tive do projeto:
 * corrigi o esquema de cores da aplicação
 * implementei a api do vercel totalmente funcional: salva dados de cadastro do orientador, responsavel e cursos. E tambem dados da matricula
    quando o responsavel clica no botao de inscrever um registro de matricula é gerado e salvo em db.json
-* A tela inicial do responsavel é dinamica, carrega os dados de cursos cadastrados no sistema. E saudação inicial dada busca o nome do usuario 
-daquele login registrado no banco.
+* A tela inicial do responsavel é dinamica, carrega os dados de cursos cadastrados no sistema. E saudação inicial dada busca o nome do usuario daquele login registrado no banco.
+* A tela inicial do orientador é dinamica, carrega os dados de todos os cursos que ele inseriu no sistema.
+* Os botões de audio agora funcionam e fornem ajuda em voz quando clicados.
 
 
 link do vercel: https://oldconnection.vercel.app/

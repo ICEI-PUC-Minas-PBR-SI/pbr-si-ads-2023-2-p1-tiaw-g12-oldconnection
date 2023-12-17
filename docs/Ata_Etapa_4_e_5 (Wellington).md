@@ -21,6 +21,13 @@ Corrigi o maximo de coisas que consegui no pouco tempo que tiver para fazer as c
 
 link do vercel: https://oldconnection.vercel.app/
 
+link do vídeo de apresentação: https://drive.google.com/file/d/16gQdP-mgoOW8MeRCwnzQ8ExrW06tI-Cj/view?usp=drive_link
+
+
+link da api do backend: https://github.com/wsrcoder/oldconnection-api-vercel
+
+link do codigo do frontend: https://github.com/wsrcoder/oldconnection-frontend
+
 usuarios válidos já inseridos no sistema para teste:
 
 * usuario:responsavel@gmail.com       senha: 123

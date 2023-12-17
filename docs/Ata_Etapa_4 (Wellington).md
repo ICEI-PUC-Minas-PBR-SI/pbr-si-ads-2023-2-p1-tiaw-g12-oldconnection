@@ -45,8 +45,9 @@ Se logarem com orientadores diferentes verão que os cursos cadastrados que apar
 |RF-002| O sistema deve cadastrar orientador   | ALTA | |
 |RF-003| O sistema deve permitir que um orientador cadastre seus cursos | ALTA | |
 |RF-004| Na tela principal do responsavel deve aparecer todos os cursos disponivies de todos os orientadores  | ALTA | |
-|RF-005| Na tela principal do orientador deve aparecer todos os cursos que ele criou  | ALTA | |
-|RF-006| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso. Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas. Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.   | ALTA | |
+|RF-005| Na tela principal do responsavel deve haver um botão ondé possível ver todos cursos onde ele inscreveu o aluno pelo qual ele é responsável  | ALTA | |
+|RF-006| Na tela principal do orientador deve aparecer todos os cursos que ele criou  | ALTA | |
+|RF-007| O sistema deve possuir uma tela de login onde apenas pessoas autorizadas tenham acesso. Na tela de login um usuario deve ter um meio de contato direto com os responsaveis do sistema para tirar suas duvidas. Na tela de login deve haver diferenciação entre de responsavel e de orientador para a criação de contas.   | ALTA | |
 
 
 

@@ -12,7 +12,6 @@ O projeto consiste em conectar pessoas idosas analfabetas ou semi-analfabetas co
 
 ## Integrantes
 
-* Dayany Alves
 * Luan Luciano
 * Pedro Camilo 
 * Pedro Henrique

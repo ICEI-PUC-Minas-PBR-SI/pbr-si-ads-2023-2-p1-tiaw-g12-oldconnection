@@ -41,7 +41,7 @@ Se logarem com orientadores diferentes verão que os cursos cadastrados que apar
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| O sistema deve Cadastrar Responsável. Cada responsavel tem um aluno. O responsavel gerencia os cursos em que seu aluno está cadastrado | ALTA |  |
+|RF-001| O sistema deve Cadastrar Responsável. Cada responsavel tem um aluno. O responsavel gerencia os cursos em que seu aluno está cadastrado | ALTA | Wellington |
 |RF-002| O sistema deve cadastrar orientador   | ALTA | Wellington|
 |RF-003| O sistema deve permitir que um orientador cadastre seus cursos | ALTA | Wellington |
 |RF-004| Na tela principal do responsavel deve aparecer todos os cursos disponivies de todos os orientadores  | ALTA | Wellington |

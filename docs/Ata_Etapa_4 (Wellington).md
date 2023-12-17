@@ -27,6 +27,7 @@ usuarios válidos já inseridos no sistema para teste:
 * usuario:orientador@gmail.com        senha: 123
 * usuario: orientador2@gmail.com      senha: 123
 * usuario: orientador3@gmail.com      senha: 123
+* usuario: orientador4@gmail.com      senha: 123
 
 
 Se logarem com orientadores diferentes verão que os cursos cadastrados que aparecem para eles são diferentes. São carregados apenas os cursos que cada um criou.
